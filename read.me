@@ -1,0 +1,58 @@
+# Speedrun World Record Data Pipeline
+
+A data engineering pipeline that extracts world record and player data from the 
+[speedrun.com API](https://github.com/speedruncomorg/api), transforms it into 
+analysis-ready tables, and visualizes world record progression and runner geography 
+on an interactive dashboard. Built as a hands-on project to practice core data 
+engineering skills: API extraction, orchestration, SQL transformation, and 
+containerized local development.
+
+## Architecture
+speedrun.com API (games -> categories -> runs -> players)
+|
+v
+Python extraction scripts (requests, pagination, retry logic)
+|
+v
+Postgres - raw schema (landing zone)
+|
+v
+SQL / dbt transformations (staging -> marts)
+|
+v
+Apache Airflow (schedules extract -> load -> transform)
+|
+v
+Streamlit dashboard (record progression + runner geography map)
+
+
+## Tech Stack
+
+- **Extraction:** Python (requests)
+- **Storage:** PostgreSQL
+- **Transformation:** SQL / dbt
+- **Orchestration:** Apache Airflow
+- **Dashboard:** Streamlit
+- **Environment:** Docker Compose
+
+## Project Status
+
+🚧 In progress — Day 1 of a 4-week build. See `docs/` for build notes and decisions.
+
+## Setup
+
+```bash
+docker-compose up -d
+```
+
+This starts:
+- Postgres on `localhost:5432`
+- pgAdmin on `localhost:5050`
+
+## Repo Structure
+extract - Python scripts to pull data from the speedrun.com API
+/sql - Staging and mart transformation queries
+/dags - Airflow DAG definitions
+/dashboard - Streamlit app
+/docs - Notes, decisions, and game list
+
