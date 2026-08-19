@@ -1,0 +1,4558 @@
+[
+  {
+    "id": "7dgr144k",
+    "name": "Clear",
+    "weblink": "https://www.speedrun.com/celeste/levels?h=Clear&x=7dgr144k",
+    "type": "per-level",
+    "rules": "## Individual Level Rules\n\n* All individual level runs should either have the in-game timer enabled, or in the case that you do not have it enabled:\n\n  * for the duration of the run, have livesplit showing file/chapter time to the hundredths of a second\n  * **AND** turn chapter or file time on before going to the chapter complete screen.\n\n* Every run must complete the chapter from start to finish.\n* Retrying or similar means of resetting the timer to skip gameplay is not allowed in 7A, 7B, 8A and 8C.\n* Save and Quits to replace retries, beneficially alter cycles, or after screen transition Badeline throws are banned.\n* The Chapter Complete screen has to be shown at the end.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dgr144k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dgr144k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dgr144k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7dgr144k"
+      }
+    ]
+  },
+  {
+    "id": "mkezwq9k",
+    "name": "Collectibles",
+    "weblink": "https://www.speedrun.com/celeste/levels?h=Collectibles&x=mkezwq9k",
+    "type": "per-level",
+    "rules": "## Individual Level Rules\n\n* All individual level runs should either have the in-game timer enabled, or in the case that you do not have it enabled:\n  \n  * for the duration of the run, have livesplit showing file/chapter time to the hundredths of a second\n  * **AND** turn chapter or file time on before going to the chapter complete screen.\n\n- Every run must complete the chapter from start to finish.\n- Retrying or similar means of resetting the timer to skip gameplay is not allowed in 7A, 7B, 8A and 8C.\n- Save and Quits to replace retries, beneficially alter cycles, or after screen transition Badeline throws are banned.\n- The Chapter Complete screen has to be shown at the end.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkezwq9k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkezwq9k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkezwq9k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=mkezwq9k"
+      }
+    ]
+  },
+  {
+    "id": "5dw5q7gd",
+    "name": "B-Side",
+    "weblink": "https://www.speedrun.com/celeste/levels?h=B-Side&x=5dw5q7gd",
+    "type": "per-level",
+    "rules": "## Individual Level Rules\n\n* All individual level runs should either have the in-game timer enabled, or in the case that you do not have it enabled:\n\n  * for the duration of the run, have livesplit showing file/chapter time to the hundredths of a second\n  * **AND** turn chapter or file time on before going to the chapter complete screen.\n\n* Every run must complete the chapter from start to finish.\n* Retrying or similar means of resetting the timer to skip gameplay is not allowed in 7A, 7B, 8A and 8C.\n* Save and Quits to replace retries, beneficially alter cycles, or after screen transition Badeline throws are banned.\n* The Chapter Complete screen has to be shown at the end.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/5dw5q7gd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/5dw5q7gd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/5dw5q7gd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=5dw5q7gd"
+      }
+    ]
+  },
+  {
+    "id": "7kjpl1gk",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/celeste?h=Any&x=7kjpl1gk",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Unlock the Epilogue from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjpl1gk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjpl1gk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjpl1gk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7kjpl1gk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/7kjpl1gk"
+      }
+    ]
+  },
+  {
+    "id": "jdz8oprd",
+    "name": "All Red Berries",
+    "weblink": "https://www.speedrun.com/celeste?h=All_Red_Berries&x=jdz8oprd",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Collect all 175 red berries and complete Core from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz8oprd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz8oprd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz8oprd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdz8oprd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/jdz8oprd"
+      }
+    ]
+  },
+  {
+    "id": "zdn0m372",
+    "name": "True Ending",
+    "weblink": "https://www.speedrun.com/celeste?h=True_Ending&x=zdn0m372",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n\n- Complete Farewell from a new file.\r\n\n## DTS (Dash Trigger Skip) Rules\r\n\n- Dash Trigger Skip is defined as bypassing the trigger in Farewell Start to set Madeline's dash count to 1, and is allowed in all relevant fullgame categories.\r\n- If you perform this skip successfully in your run, set the DTS variable to \"Yes\"\r\n- If you did not, set it to \"No\"\n\n## Farewell Skip Rules\n\n- Skipping the majority of Farewell by reaching the golden berry room early is prohibited.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn0m372"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn0m372/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn0m372/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdn0m372"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/zdn0m372"
+      }
+    ]
+  },
+  {
+    "id": "q2517ggd",
+    "name": "All Cassettes",
+    "weblink": "https://www.speedrun.com/celeste?h=All_Cassettes&x=q2517ggd",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Collect all 8 Cassette Tapes and complete Core from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2517ggd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2517ggd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2517ggd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q2517ggd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/q2517ggd"
+      }
+    ]
+  },
+  {
+    "id": "q2550mw2",
+    "name": "Bny%",
+    "weblink": "https://www.speedrun.com/celeste?h=Bny&x=q2550mw2",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Unlock the Epilogue from a new file without completing any A-Sides.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2550mw2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2550mw2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q2550mw2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q2550mw2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/q2550mw2"
+      }
+    ]
+  },
+  {
+    "id": "xd1718wd",
+    "name": "All Hearts",
+    "weblink": "https://www.speedrun.com/celeste?h=All_Hearts&x=xd1718wd",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Collect all 24 hearts from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1718wd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1718wd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1718wd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd1718wd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/xd1718wd"
+      }
+    ]
+  },
+  {
+    "id": "wk67rved",
+    "name": "C-Side",
+    "weblink": "https://www.speedrun.com/celeste/levels?h=C-Side&x=wk67rved",
+    "type": "per-level",
+    "rules": "## Individual Level Rules\n\n* All individual level runs should either have the in-game timer enabled, or in the case that you do not have it enabled:\n\n  * for the duration of the run, have livesplit showing file/chapter time to the hundredths of a second\n  * **AND** turn chapter or file time on before going to the chapter complete screen.\n\n* Every run must complete the chapter from start to finish.\n* Retrying or similar means of resetting the timer to skip gameplay is not allowed in 7A, 7B, 8A and 8C.\n* Save and Quits to replace retries, beneficially alter cycles, or after screen transition Badeline throws are banned.\n* The Chapter Complete screen has to be shown at the end.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk67rved"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk67rved/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk67rved/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wk67rved"
+      }
+    ]
+  },
+  {
+    "id": "xk9ry6xk",
+    "name": "100%",
+    "weblink": "https://www.speedrun.com/celeste?h=100&x=xk9ry6xk",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Complete all chapters, collect all 175 red berries, and collect the moon berry from a new file.\r\n\r\n## DTS (Dash Trigger Skip) Rules\r\n* Dash Trigger Skip is defined as bypassing the trigger in Farewell Start to set Madeline's dash count to 1, and is allowed in all relevant fullgame categories.\r\n* If you perform this skip successfully in your run, set the DTS variable to \"Yes\"\r\n* If you did not, set it to \"No\"",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9ry6xk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9ry6xk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9ry6xk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk9ry6xk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/xk9ry6xk"
+      }
+    ]
+  },
+  {
+    "id": "jdrvgy02",
+    "name": "202 Berries",
+    "weblink": "https://www.speedrun.com/celeste?h=202_Berries&x=jdrvgy02",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Collect all 202 strawberries and complete all chapters from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrvgy02"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrvgy02/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrvgy02/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdrvgy02"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/jdrvgy02"
+      }
+    ]
+  },
+  {
+    "id": "z27rpe5d",
+    "name": "All Chapters",
+    "weblink": "https://www.speedrun.com/celeste?h=All_Chapters&x=z27rpe5d",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n\n- Complete all chapters from a new file.\r\n\n## DTS (Dash Trigger Skip) Rules\r\n\n- Dash Trigger Skip is defined as bypassing the trigger in Farewell Start to set Madeline's dash count to 1, and is allowed in all relevant fullgame categories.\r\n- If you perform this skip successfully in your run, set the DTS variable to \"Yes\"\r\n- If you did not, set it to \"No\"\n\n## Farewell Skip Rules\n\n- Skipping the majority of Farewell by reaching the golden berry room early is prohibited.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rpe5d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rpe5d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rpe5d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z27rpe5d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/z27rpe5d"
+      }
+    ]
+  },
+  {
+    "id": "zd365jyd",
+    "name": "All A-Sides",
+    "weblink": "https://www.speedrun.com/celeste?h=All_A-Sides&x=zd365jyd",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Complete all A-sides from a new file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd365jyd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd365jyd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd365jyd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd365jyd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/zd365jyd"
+      }
+    ]
+  },
+  {
+    "id": "zd36mqyd",
+    "name": "All B-Sides",
+    "weblink": "https://www.speedrun.com/celeste?h=All_B-Sides&x=zd36mqyd",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Complete all B-sides from a new file. Use of cheat mode is allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd36mqyd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd36mqyd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd36mqyd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd36mqyd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/zd36mqyd"
+      }
+    ]
+  },
+  {
+    "id": "xd1ex5r2",
+    "name": "All C-Sides",
+    "weblink": "https://www.speedrun.com/celeste?h=All_C-Sides&x=xd1ex5r2",
+    "type": "per-game",
+    "rules": "## Category Objective\r\n* Complete all C-sides from a new file. Use of cheat mode is allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1ex5r2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1ex5r2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1ex5r2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd1ex5r2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/xd1ex5r2"
+      }
+    ]
+  },
+  {
+    "id": "02q8o4p2",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/hollowknight?h=Any&x=02q8o4p2",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q8o4p2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q8o4p2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q8o4p2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02q8o4p2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/02q8o4p2"
+      }
+    ]
+  },
+  {
+    "id": "n2y577zk",
+    "name": "All Skills",
+    "weblink": "https://www.speedrun.com/hollowknight?h=All_Skills&x=n2y577zk",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y577zk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y577zk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y577zk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=n2y577zk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/n2y577zk"
+      }
+    ]
+  },
+  {
+    "id": "xk9vrl6d",
+    "name": "112% APB",
+    "weblink": "https://www.speedrun.com/hollowknight?h=112_APB&x=xk9vrl6d",
+    "type": "per-game",
+    "rules": "- Achieve 112% completion and defeat All Pantheon Bosses within their respective pantheons, including Grey Prince Zote (in both Pantheon 3 and Pantheon 5) and Absolute Radiance.\r\n- Runs must be on patch 1.4.2.4 or later.\r\n- Videos must show completion percent at the end of the credits.\r\n\n**[The requirements to reach 112% on the in-game tracker.](https://pastebin.com/56FFSH1G)**",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vrl6d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vrl6d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vrl6d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk9vrl6d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/xk9vrl6d"
+      }
+    ]
+  },
+  {
+    "id": "wkpq608d",
+    "name": "Level",
+    "weblink": "https://www.speedrun.com/hollowknight/levels?h=Level&x=wkpq608d",
+    "type": "per-level",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpq608d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpq608d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpq608d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wkpq608d"
+      }
+    ]
+  },
+  {
+    "id": "vdo5xe6k",
+    "name": "107% AB",
+    "weblink": "https://www.speedrun.com/hollowknight?h=107_AB&x=vdo5xe6k",
+    "type": "per-game",
+    "rules": "- Achieve 107% completion, defeat all bosses that appear in both the Hall of Gods and the overworld, and finish the game by defeating The Radiance\r\n- Runs must be on patch 1.3.1.5 or later.\r\n- Usage of Godhome DLC content and areas is forbidden\r\n- Videos must show completion percent at the end of the credits.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo5xe6k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo5xe6k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo5xe6k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdo5xe6k"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/vdo5xe6k"
+      }
+    ]
+  },
+  {
+    "id": "z271r7z2",
+    "name": "106% TE",
+    "weblink": "https://www.speedrun.com/hollowknight?h=106_TE&x=z271r7z2",
+    "type": "per-game",
+    "rules": "- Achieve 106% completion and defeat both the Radiance and Nightmare King Grimm.\r\n- Runs must be on a patch between 1.2.1.0 and 1.2.2.1.\r\n- Videos must show completion percent at the end of the credits.\r\n\r\n**[The requirements to reach 106% on the in-game tracker.](https://pastebin.com/eyRtrA1t)**",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271r7z2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271r7z2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271r7z2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z271r7z2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/z271r7z2"
+      }
+    ]
+  },
+  {
+    "id": "wk617wxd",
+    "name": "True Ending",
+    "weblink": "https://www.speedrun.com/hollowknight?h=True_Ending&x=wk617wxd",
+    "type": "per-game",
+    "rules": "Finish the game by defeating the Radiance.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk617wxd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk617wxd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk617wxd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wk617wxd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/wk617wxd"
+      }
+    ]
+  },
+  {
+    "id": "w20w0v5d",
+    "name": "Low%",
+    "weblink": "https://www.speedrun.com/hollowknight?h=Low&x=w20w0v5d",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20w0v5d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20w0v5d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20w0v5d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=w20w0v5d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/w20w0v5d"
+      }
+    ]
+  },
+  {
+    "id": "7dg9e9gk",
+    "name": "Console Runs",
+    "weblink": "https://www.speedrun.com/hollowknight?h=Console_Runs&x=7dg9e9gk",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dg9e9gk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dg9e9gk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7dg9e9gk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7dg9e9gk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/7dg9e9gk"
+      }
+    ]
+  },
+  {
+    "id": "q25epyg2",
+    "name": "All Achievements",
+    "weblink": "https://www.speedrun.com/hollowknight?h=All_Achievements&x=q25epyg2",
+    "type": "per-game",
+    "rules": "Unlock all 63 Achievements and beat the game.\r\n\r\n- For verification, Achievement pop-ups must be enabled in Hollow Knight. The empty achievement menu must be shown before the run and the completed menu must be shown after the run is completed. \r\n- Manually copying files is not allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25epyg2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25epyg2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25epyg2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q25epyg2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/q25epyg2"
+      }
+    ]
+  },
+  {
+    "id": "wkp31j02",
+    "name": "Any% Steel Soul",
+    "weblink": "https://www.speedrun.com/hollowknight?h=Any_Steel_Soul&x=wkp31j02",
+    "type": "per-game",
+    "rules": "Beat the game with any amount of completion on a Steel Soul file.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkp31j02"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkp31j02/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkp31j02/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wkp31j02"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/wkp31j02"
+      }
+    ]
+  },
+  {
+    "id": "zdn80q9d",
+    "name": "100% TE",
+    "weblink": "https://www.speedrun.com/hollowknight?h=100_TE&x=zdn80q9d",
+    "type": "per-game",
+    "rules": "- Achieve 100% completion and defeat the Radiance.\r\n- Runs must be on patch 1.1.1.8 or earlier.\r\n- Videos must show completion percent at the end of the credits.\r\n\r\n**[The requirements to reach 100% on the in-game tracker](http://pastebin.com/2EJ1S8Aq)**\r\n\r\n**[Archived leaderboard for 100% without True Ending](https://docs.google.com/document/d/1ZFNwamDGRWuPfP7CYptyl8Me0L0yzbg9KaghrfKj62U)**",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn80q9d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn80q9d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn80q9d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdn80q9d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/zdn80q9d"
+      }
+    ]
+  },
+  {
+    "id": "8241w7w2",
+    "name": "Godhome Ending",
+    "weblink": "https://www.speedrun.com/hollowknight?h=Godhome_Ending&x=8241w7w2",
+    "type": "per-game",
+    "rules": "Finish the game by defeating the Absolute Radiance.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/8241w7w2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/8241w7w2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/8241w7w2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=8241w7w2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/8241w7w2"
+      }
+    ]
+  },
+  {
+    "id": "824m6ng2",
+    "name": "All Bosses",
+    "weblink": "https://www.speedrun.com/hollowknight?h=All_Bosses&x=824m6ng2",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/824m6ng2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/824m6ng2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/824m6ng2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=824m6ng2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/824m6ng2"
+      }
+    ]
+  },
+  {
+    "id": "zd396ped",
+    "name": "Legacy Board",
+    "weblink": "https://www.speedrun.com/hollowknight?h=legacy-board&x=zd396ped",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "up-to",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd396ped"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd396ped/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd396ped/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd396ped"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/zd396ped"
+      }
+    ]
+  },
+  {
+    "id": "zd3xmmvd",
+    "name": "Any Heat",
+    "weblink": "https://www.speedrun.com/hades?h=Any_Heat&x=zd3xmmvd",
+    "type": "per-game",
+    "rules": "## **Any Heat Rules**\r\n\r\n1. Achieve Victory using any amount of heat (0 or more).  \r\n\r\n2. Must be a single, continuous run. \r\nNo game quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n_______________________________________\r\nLeaderboards are ordered by fastest In Game Time (IGT). \r\nReal Time is not *required* for this category, but the leaderboard can be sorted by Real Time. \r\nYour Real Time Attack (RTA) starts as soon as you can move after dropping out of the window at the start of the escape. RTA ends the instant the final boss dies.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3xmmvd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3xmmvd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3xmmvd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd3xmmvd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/zd3xmmvd"
+      }
+    ]
+  },
+  {
+    "id": "zdn8elnd",
+    "name": "32 Heat",
+    "weblink": "https://www.speedrun.com/hades?h=32_Heat&x=zdn8elnd",
+    "type": "per-game",
+    "rules": "## **32 Heat Rules**\r\n\r\n1. Achieve Victory using 32 heat or more.  \r\n\r\n2. Must be a single, continuous run. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n_______________________________________\r\nLeaderboards are ordered by fastest In Game Time (IGT). \r\nReal Time is not *required* for this category, but the leaderboard can be sorted by Real Time. \r\nYour Real Time Attack (RTA) starts as soon as you can move after dropping out of the window at the start of the escape. RTA ends the instant the final boss dies.\r\n\r\nRuns between 32-39 heat can be submitted.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8elnd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8elnd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8elnd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdn8elnd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/zdn8elnd"
+      }
+    ]
+  },
+  {
+    "id": "02qmjm9d",
+    "name": "40 Heat",
+    "weblink": "https://www.speedrun.com/hades?h=40_Heat&x=02qmjm9d",
+    "type": "per-game",
+    "rules": "## **40 Heat Rules**\r\n\r\n1. Achieve Victory using 40 heat or more.  \r\n\r\n2. Must be a single, continuous run. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n_______________________________________\r\nLeaderboards are ordered by fastest In Game Time (IGT). \r\nReal Time is not *required* for this category, but the leaderboard can be sorted by Real Time. \r\nYour Real Time Attack (RTA) starts as soon as you can move after dropping out of the window at the start of the escape. RTA ends the instant the final boss dies.\r\n\r\nRuns between 40-49 heat can be submitted.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qmjm9d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qmjm9d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qmjm9d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02qmjm9d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/02qmjm9d"
+      }
+    ]
+  },
+  {
+    "id": "jdzwxo3d",
+    "name": "50 Heat",
+    "weblink": "https://www.speedrun.com/hades?h=50_Heat&x=jdzwxo3d",
+    "type": "per-game",
+    "rules": "## **50 Heat Rules**\r\n\r\n1. Achieve Victory using 50 heat or more.  \r\n\r\n2. Must be a single, continuous run. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n_______________________________________\r\nLeaderboards are ordered by fastest In Game Time (IGT). \r\nReal Time is not *required* for this category, but the leaderboard can be sorted by Real Time. \r\nYour Real Time Attack (RTA) starts as soon as you can move after dropping out of the window at the start of the escape. RTA ends the instant the final boss dies.\r\n\r\nRuns above 50 heat can be submitted.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzwxo3d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzwxo3d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzwxo3d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdzwxo3d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/jdzwxo3d"
+      }
+    ]
+  },
+  {
+    "id": "9kv9gg82",
+    "name": "Fresh File",
+    "weblink": "https://www.speedrun.com/hades?h=Fresh_File&x=9kv9gg82",
+    "type": "per-game",
+    "rules": "## **Fresh File Rules**\r\n\r\n1. Achieve Victory starting from a new game file. \r\n\r\n2. Must be a single continuous series of runs.  \r\nDeaths are allowed, but no quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you open the new file, and ends the instant the final boss dies. \r\n_______________________________________",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv9gg82"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv9gg82/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv9gg82/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9kv9gg82"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/9kv9gg82"
+      }
+    ]
+  },
+  {
+    "id": "vdo530yk",
+    "name": "FFTC",
+    "weblink": "https://www.speedrun.com/hades?h=FFTC&x=vdo530yk",
+    "type": "per-game",
+    "rules": "## **Fresh File To Credits (FFTC) Rules**\r\n\r\n\r\n1. Reach Credits starting from a new game file.\r\n\r\n2. Must be a single continuous series of runs.\r\n\r\n3. Deaths are allowed, but no quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n4. This category allows 50 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you open the new file, and ends the instant you interact with Persephone after the 10th clear.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo530yk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo530yk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo530yk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdo530yk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/vdo530yk"
+      }
+    ]
+  },
+  {
+    "id": "w20xnq52",
+    "name": "OwO",
+    "weblink": "https://www.speedrun.com/hades?h=OwO&x=w20xnq52",
+    "type": "per-game",
+    "rules": "## **One Weapon Only (OwO) Rules**\r\n\r\n1.  Achieve a series of 4 victories, with each victory using a different aspect of the same weapon. Aspects can be used in any order.\r\n    \r\n2.  Must be a single and continuous series of runs. No quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n    \r\n3.  Show the previous run's death (or a run completion with the death) at the start of the video.\r\n    \r\n4.  Time starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last aspect run dies.\r\n    \r\n5.  Any Mirror, Weapon, or starting Keepsake can be used. You are encouraged to unlock all of these, but it is not necessary.\r\n\r\n6. This category allows 20 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20xnq52"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20xnq52/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20xnq52/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=w20xnq52"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/w20xnq52"
+      }
+    ]
+  },
+  {
+    "id": "jdropold",
+    "name": "3 Weapons",
+    "weblink": "https://www.speedrun.com/hades?h=3_Weapons&x=jdropold",
+    "type": "per-game",
+    "rules": "## **3 Weapons Rules**\r\n\r\n1. Achieve a series of 3 victories, with each victory using a different weapon. \r\nWeapons can be used in any order. \r\n\r\n2. Must be a single and continuous series of runs. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Show the previous run's death (or a run completion with the death) at the start of the video.\r\n\r\n4. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n5. This category allows 15 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last weapon run dies. \r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdropold"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdropold/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdropold/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdropold"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/jdropold"
+      }
+    ]
+  },
+  {
+    "id": "w2034452",
+    "name": "All Weapons",
+    "weblink": "https://www.speedrun.com/hades?h=All_Weapons&x=w2034452",
+    "type": "per-game",
+    "rules": "## **All Weapons Rules**\r\n\r\n1. Achieve a series of 6 victories, with each victory using a different weapon. \r\nWeapons can be used in any order. \r\n\r\n2. Must be a single and continuous series of runs. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Show the previous run's death (or a run completion with the death) at the start of the video.\r\n\r\n4. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n5. This category allows 30 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last weapon run dies.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/w2034452"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/w2034452/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/w2034452/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=w2034452"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/w2034452"
+      }
+    ]
+  },
+  {
+    "id": "xd15e642",
+    "name": "Halfspects",
+    "weblink": "https://www.speedrun.com/hades?h=Halfspects&x=xd15e642",
+    "type": "per-game",
+    "rules": "## **Halfspects Rules**\r\n\r\n1. Achieve a series of 12 victories, with each victory using a different aspect. Aspects can be used in any order.\r\n\r\n2. Must be a single and continuous series of runs. No quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Show the previous run's death (or a run completion with the death) at the start of the video.\r\n\r\n4. Any Mirror, Weapon, or starting Keepsake can be used. You are encouraged to unlock all of these, but it is not necessary.\r\n\r\n5. This category allows 60 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last aspect run dies.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd15e642"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd15e642/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd15e642/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd15e642"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/xd15e642"
+      }
+    ]
+  },
+  {
+    "id": "7kjgqe4k",
+    "name": "All Aspects",
+    "weblink": "https://www.speedrun.com/hades?h=All_Aspects&x=7kjgqe4k",
+    "type": "per-game",
+    "rules": "## **All Aspects Rules**\r\n\r\n1. Achieve a series of 24 victories, with each victory using a different aspect. Aspects can be used in any order.\r\n\r\n2. Must be a single and continuous series of runs. No quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Show the previous run's death (or a run completion with the death) at the start of the video.\r\n\r\n4. Any Mirror, Weapon, or starting Keepsake can be used. You are encouraged to unlock all of these, but it is not necessary.\r\n\r\n5. This category allows 120 minutes worth of breaks. Breaks must be taken in the House of Hades, and the game must remain paused for the duration of your break. All breaks must be reported with timestamps in the description of the submission, or they will not be counted.\r\n\r\n_______________________________________\r\n*In Game Time (IGT) is not relevant, leave this blank when submitting.*\r\n\r\nTime starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last aspect run dies.\r\n_______________________________________",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjgqe4k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjgqe4k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjgqe4k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7kjgqe4k"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/7kjgqe4k"
+      }
+    ]
+  },
+  {
+    "id": "9d8e6j6d",
+    "name": "Any Heat (Early Access)",
+    "weblink": "https://www.speedrun.com/hades?h=Any_Heat_Early_Access&x=9d8e6j6d",
+    "type": "per-game",
+    "rules": "ANY HEAT RULES:\r\n\r\n1. Achieve Victory using any amount of heat (0 or more).\r\n\r\n2. Must be a single, continuous run. No game quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. You are encouraged to unlock all of these, but it is not necessary.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j6d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j6d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j6d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d8e6j6d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/9d8e6j6d"
+      }
+    ]
+  },
+  {
+    "id": "xd14e37d",
+    "name": "32 Heat (Early Access)",
+    "weblink": "https://www.speedrun.com/hades?h=32_Heat_Early_Access&x=xd14e37d",
+    "type": "per-game",
+    "rules": "32 HEAT RULES:\r\n\r\n1. Achieve Victory using 32 heat or more.  \r\n\r\n2. Must be a single, continuous run. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14e37d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14e37d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14e37d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd14e37d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/xd14e37d"
+      }
+    ]
+  },
+  {
+    "id": "jdroxxxd",
+    "name": "Highest Heat (Early Access)",
+    "weblink": "https://www.speedrun.com/hades?h=Highest_Heat_Early_Access&x=jdroxxxd",
+    "type": "per-game",
+    "rules": "HIGHEST HEAT RULES\r\n\r\n    Achieve Victory using the Highest amount of Heat possible. Aim for fastest IGT.\r\n\r\n    Must be a single continuous run, no quit-outs mid run\r\n\r\n    Any amount of Mirror of Night upgrades can be used; you are encouraged to upgrade the mirror all the way, but it is not required\r\n\r\n    Using Pacts of Punishment is allowed at any heat level of your choosing above 32.\r\n\r\n    Must be played on latest version available at the time\r\n\r\n    No God or Hell Mode.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdroxxxd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdroxxxd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdroxxxd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdroxxxd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/jdroxxxd"
+      }
+    ]
+  },
+  {
+    "id": "9kv6mjo2",
+    "name": "Fresh File (Early Access)",
+    "weblink": "https://www.speedrun.com/hades?h=Fresh_File_Early_Access&x=9kv6mjo2",
+    "type": "per-game",
+    "rules": "FRESH FILE RULES\r\n\r\n1. Achieve Victory starting from a new game file. \r\n\r\n2. Time starts as soon as you open the new file, and ends the instant the final boss dies. \r\n\r\n3. Must be a single continuous series of runs.  \r\nDeaths are allowed, but no quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n______________________________\r\nIn Game Time (IGT) is not relevant, leave this blank when submitting.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv6mjo2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv6mjo2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv6mjo2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9kv6mjo2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/9kv6mjo2"
+      }
+    ]
+  },
+  {
+    "id": "9d8e6j3d",
+    "name": "All Weapons (Early Access)",
+    "weblink": "https://www.speedrun.com/hades?h=All_Weapons_Early_Access&x=9d8e6j3d",
+    "type": "per-game",
+    "rules": "ALL WEAPONS RULES\r\n\r\n1. Achieve Victory with 6 runs in a row, with each victory using a different weapon. \r\nWeapons can be used in any order. \r\n\r\n2. Must be a single and continuous series of runs. \r\nNo quit-outs (Alt-F4s, give-ups, quits or crashes) mid-run.\r\n\r\n3. Show the previous run's death (or a run completion with the death) at the start of the video.\r\n\r\n4. Time starts as soon as you can move after falling out of the window, and ends the instant the final boss of the last weapon run dies. \r\n\r\n5. Any Mirror, Weapon/Aspect or starting Keepsake can be used. \r\nYou are encouraged to unlock all of these, but it is not necessary.\r\n\r\n______________________________\r\nIn Game Time (IGT) is not relevant, leave this blank when submitting.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j3d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j3d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8e6j3d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d8e6j3d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/9d8e6j3d"
+      }
+    ]
+  },
+  {
+    "id": "jdz5po6d",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/d2016?h=Any&x=jdz5po6d",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\n- Finish the game as fast as possible. Timing begins on first input and ends when the Spider Mastermind glory kill is performed.\r\n\r\n- For submissions to classic (the default), you may play on any of the first three difficulties. If you select Nightmare or Ultra-Nightmare, make sure you select the respective difficulty when you create your submission.\r\n\r\n- For Ultra-Nightmare submissions, the beginning of the game starts in a different place. The timer begins when you take control of Doomguy leaving the elevator.\r\n\r\n- For general rules, read: Main Rules.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz5po6d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz5po6d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz5po6d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdz5po6d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/jdz5po6d"
+      }
+    ]
+  },
+  {
+    "id": "wkpv80jk",
+    "name": "100%",
+    "weblink": "https://www.speedrun.com/d2016?h=100&x=wkpv80jk",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\nComplete the below requirements and finish the game as fast as possible.\r\n\r\n100%:\r\n\r\n- Full Combat-Rating for all levels that measure it (Foundry and onward)\r\n- Master all weapons \r\n- Master all runes\r\n- Collect all secrets \r\n- Collect all codices\r\n- Collect all Argent Cell upgrades\r\n- Fully upgrade the Praetor Suit with the use of Praetor Tokens\r\n- Perform all optional challenges for levels that measure it (Resource Operations and onward)\r\n\r\n\r\nFOR CLASSIC & NIGHTMARE ONLY:\r\n\r\nEnd-screen capture after glory-killing the Spider Mastermind:\r\n- 11 Combat Points \r\n- All weapon masteries\r\n- All argent cells, Praetor-suit upgrades\r\n- All runes mastered\r\n- All Codices\r\n\r\nIf checking before Spider Mastermind GK you should have the following:\r\n\r\n* Environments 25/25\r\n* Database 9/9\r\n* UAC Personnel 9/9\r\n* Weapons 27/27\r\n* Monsters 35/36\r\n* Artifacts 16/16\r\n\r\nIf not showing before the Spider Mastermind: please show that you collect all of the above in your video submission by launching into the game after the run has been completed and showing your menu and scrolling through every menu option.\r\n\r\n\r\nFOR ULTRA-NIGHTMARE ONLY:\r\n\r\nYou must show the end-screen capture before glory-killing the Spider Mastermind (doing so after glory killing the Spider Mastermind is not possible). You must have all of the following:\r\n- 11 Combat Points \r\n- All masteries for weapons\r\n- All argent cells and Prateor-suit upgrades\r\n- All masteries for runes\r\n- All codices possible for Ultra-Nightmare:\r\n\r\n- Environments 25/25\r\n- Database 9/9\r\n- UAC Personnel 9/9\r\n- Weapons 25/27\r\n- Monsters 35/36\r\n- Artifacts 15/16",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpv80jk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpv80jk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wkpv80jk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wkpv80jk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/wkpv80jk"
+      }
+    ]
+  },
+  {
+    "id": "xk98pw42",
+    "name": "Legacy",
+    "weblink": "https://www.speedrun.com/d2016?h=Legacy&x=xk98pw42",
+    "type": "per-game",
+    "rules": "Finish game as fast as possible without the use of below glitches/skips/tricks. Timer starts when you gain control in the Intro and ends when Spider Mastermind Glory Kill is performed.\r\n\r\n**Disallowed glitches/skips/tricks**\r\n\r\n- Railboosts. \r\n- Glory Kill Clips\r\n- Paperclips\r\n- Weapon Wheel Glitch (using the Weapon Wheel while a BFG shot is in the air)\r\n- Animation delay using the weapon wheel (eg. ARC tram clip, VEGA tether delay, etc.)\r\n- Pressing buttons/switches through walls or surfaces. (Glitched buttons such as the one at the very end of Lazarus 1 are allowed, but you must shoot the panel off of the button first.)\r\n- Chainsawing the imp through the elevator window during the elevator ride in Lazarus 1, or the zombies that are outside of the door in the second room coming out of the elevator.\r\n\r\nIf you have any questions about the ruleset, please ask a mod in the Discord.\r\n\r\n**What is Legacy?** \r\n\r\nLegacy is the newest version of what used to be known as \"No Major Glitches\" Since there is such a grey area in defining what is or is not a \"glitch\" in this game, a group of DOOM runners voted to define a set of rules that they would all abide by. It is important that all players use the same rules, since it allows them to compare times with each other. These rules are not perfect, but they are the current standard.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk98pw42"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk98pw42/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk98pw42/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk98pw42"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/xk98pw42"
+      }
+    ]
+  },
+  {
+    "id": "vdo4o412",
+    "name": "IL Runs",
+    "weblink": "https://www.speedrun.com/d2016/levels?h=IL_Runs&x=vdo4o412",
+    "type": "per-level",
+    "rules": "Follow the rules for each individual level",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo4o412"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo4o412/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdo4o412/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdo4o412"
+      }
+    ]
+  },
+  {
+    "id": "w20zwzvd",
+    "name": "All Secrets",
+    "weblink": "https://www.speedrun.com/d2016?h=All_Secrets&x=w20zwzvd",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\n- Collect all secrets in each level and finish the game as fast as possible. Timing begins on first input and ends when the Spider Mastermind glory kill is performed.\r\n\r\n- For verification purposes its required to show the secrets in your submission video after a run is finished. To do this, return back to the Main Menu after the credits. Open your save and scroll through each level. The secrets are shown at the bottom of each level as \"?\" icons.\r\n\r\n- You may play on any difficulty, aside from Nightmare & Ultra-Nightmare as they are their own category.\r\n\r\n- For general rules, read: Main Rules.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20zwzvd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20zwzvd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/w20zwzvd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=w20zwzvd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/w20zwzvd"
+      }
+    ]
+  },
+  {
+    "id": "wdmqwqx2",
+    "name": "New Game +",
+    "weblink": "https://www.speedrun.com/d2016?h=New_Game_&x=wdmqwqx2",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\n- Use the \"Level Select\" option to complete all 13 levels in order. \r\n- Using LiveSplit, the timer auto-starts when you gain control in the elevator of \"The UAC\" and ends automatically when initiating the glory kill on the Spider Mastermind.\r\n- For general rules, read: Main Rules.\r\n\r\n**Misc**\r\n\r\n- You are allowed to use a save file with any amount of game completion, and use weapons/runes etc. to your advantage as you please.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmqwqx2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmqwqx2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmqwqx2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wdmqwqx2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/wdmqwqx2"
+      }
+    ]
+  },
+  {
+    "id": "jdrngxlk",
+    "name": "0% (Full CR)",
+    "weblink": "https://www.speedrun.com/d2016?h=0_Full_CR&x=jdrngxlk",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\n- Timer starts when player takes control and ends when Spider Mastermind Glory Kill is performed.\r\n\r\n- End screen confirmation for each level must be captured. The End screen confirmation is required before Spider Mastermind glory kill.\r\n\r\n- Using mods to open the final door in Resource Operations leading to the end-level trigger is **not** allowed.\r\n\r\n1. Full combat rating per level that tracks it.\r\n2. Cannot spend weapon upgrade points\r\n3. Cannot acquire weapon mods\r\n4. Cannot acquire argent cells\r\n5. Cannot acquire Praetor Tokens\r\n6. Cannot acquire runes\r\n7. Cannot access any level's secrets\r\n8. Cannot make any progress towards any level's Optional Mission Challenges",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrngxlk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrngxlk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrngxlk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdrngxlk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/jdrngxlk"
+      }
+    ]
+  },
+  {
+    "id": "jdzlmmv2",
+    "name": "Redguard",
+    "weblink": "https://www.speedrun.com/d2016?h=Redguard&x=jdzlmmv2",
+    "type": "per-game",
+    "rules": "Timer starts when player takes control and ends when Spider Mastermind Glory Kill is performed. The console is not allowed to be used in any way.\r\n\r\nAll praetor tokens from all levels must be obtained. You may display this after the credits in the Level Select screen.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzlmmv2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzlmmv2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzlmmv2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdzlmmv2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/jdzlmmv2"
+      }
+    ]
+  },
+  {
+    "id": "wk6wlzp2",
+    "name": "Max Exploration",
+    "weblink": "https://www.speedrun.com/d2016?h=Max_Exploration&x=wk6wlzp2",
+    "type": "per-game",
+    "rules": "**Category specific rules**\r\n\r\n- Collect all collectibles in each level and finish the game as fast as possible.\r\nThis can be reviewed under the end screen's 'Exploration' tab and exists out of: Secrets, Praetor Suit tokens, Rune's and Argent Cells. (Combat Rating is excluded) \r\n \r\nTiming begins on first input and ends when the Spider Mastermind glory kill is performed.\r\n\r\nWhen submitting: \r\n- After completing a run, a runner must show the progress of each level in the Level Select screen.\r\n\r\nRestrictions:\r\n- Duping redguard tokens, weapon drones, and argent cells is not allowed. Duping weapon drones and argent cells would softlock the player from gathering all collectibles. Duping redguard tokens will not softlock the player but all tokens must be acquired at source regardless.\r\n\r\nOther:\r\n- You may play on any difficulty, aside from Nightmare & Ultra-Nightmare as they are their own category.\r\n\r\n- For general rules, read: \"Main Rules\".",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6wlzp2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6wlzp2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6wlzp2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wk6wlzp2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/wk6wlzp2"
+      }
+    ]
+  },
+  {
+    "id": "xw20jzkn",
+    "name": "Out of Bounds",
+    "weblink": "https://www.speedrun.com/portal/levels?h=Out_of_Bounds&x=xw20jzkn",
+    "type": "per-level",
+    "rules": "[OoB category rules](https://www.speedrun.com/portal#Out_of_Bounds) apply.  \r\n\r\nThe following speed caps apply to the very start of all Individual Levels:\r\n\r\n-Your horizontal (xy) speed cannot be more than 280 (this is about the maximum speed of a jump, with strafing). \r\n\r\n-Your vertical (z) speed must be between -250 and 150 (This is the speed range when crouch jumping and landing on the same elevation). \r\n\r\nFor *escape 01*, you can't have more speed going into the map than crouch jumping off the rail into the trigger would give you (cannot have more than -445.50 z speed. Example of too much speed would be -455.00).\r\n\r\nIndividual level runs have to be single segment and start on the inbounds level load (e.g. no under or in front of elevator start). You must not start in saveglitch state. No saving/loading. No props from the previous map. You cannot start your Individual Level through New Game. **Demo proof is required to submit** (video is optional).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xw20jzkn"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xw20jzkn/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xw20jzkn/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xw20jzkn"
+      }
+    ]
+  },
+  {
+    "id": "n2yp4y12",
+    "name": "Inbounds",
+    "weblink": "https://www.speedrun.com/portal/levels?h=legacy&x=n2yp4y12",
+    "type": "per-level",
+    "rules": "Full game Inbounds rules apply\n\nThe following speed caps apply to the very start of all Individual Levels:\n\n-Your horizontal (xy) speed cannot be more than 280 (this is about the maximum speed of a jump, with strafing).\n\n-Your vertical (z) speed must be between -250 and 150 (This is the speed range when crouch jumping and landing on the same elevation).\n\nFor *escape 01*, you can't have more speed going into the map than crouch jumping off the rail into the trigger would give you (cannot have more than -445.50 z speed. Example of too much speed would be -455.00).\n\nIndividual level runs have to be single segment and start on the inbounds level load (e.g. no under or in front of elevator start). You must not start in saveglitch state. No saving/loading. No props from the previous map. Obtaining AGSG state is allowed. You cannot start your Individual Level through New Game. **Demo proof is required to submit** (video is optional).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yp4y12"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yp4y12/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yp4y12/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=n2yp4y12"
+      }
+    ]
+  },
+  {
+    "id": "lvdowokp",
+    "name": "Out of Bounds",
+    "weblink": "https://www.speedrun.com/portal?h=Out_of_Bounds&x=lvdowokp",
+    "type": "per-game",
+    "rules": "# **Out of Bounds Rules**\r\n\r\nBeat the game, all out of bounds tricks are allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/lvdowokp"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/lvdowokp/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/lvdowokp/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=lvdowokp"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/lvdowokp"
+      }
+    ]
+  },
+  {
+    "id": "7wkp6v2r",
+    "name": "Inbounds",
+    "weblink": "https://www.speedrun.com/portal?h=Inbounds&x=7wkp6v2r",
+    "type": "per-game",
+    "rules": "# **Inbounds Rules**\r\n\r\nBeat the game without having any props, your camera, placed portals or traveling portals leave the map. \r\n\r\nIf any of those conditions are broken, you need to reload a save (however, shooting a portal through oob space that doesn't land anywhere or accidentally doing clipping glitch in maps like 10 is OK).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7wkp6v2r"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7wkp6v2r/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7wkp6v2r/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7wkp6v2r"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/7wkp6v2r"
+      }
+    ]
+  },
+  {
+    "id": "rkl7w46d",
+    "name": "Inbounds No SLA",
+    "weblink": "https://www.speedrun.com/portal?h=inbounds-no-sla-unrestricted&x=rkl7w46d",
+    "type": "per-game",
+    "rules": "# Inbounds No Saveload Abuse Rules\n\nBeat the game without having any props, your camera, placed portals or traveling portals leave the map.\n\nYou are NOT allowed to do any glitch/trick/route that requires you to utilize loading (this includes autosaves, map transitions, and New Game). You're still allowed to use quicksaves, but everything in your run needs to be theoretically possible without using saving/loading.\n\nIf any of those conditions are broken, you need to reload a save (however, shooting a portal through oob space that doesn't land anywhere or accidentally doing clipping glitch in maps like 10 is OK).\n\nAll glitches are allowed as long as they do not require saving and loading.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkl7w46d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkl7w46d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkl7w46d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=rkl7w46d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/rkl7w46d"
+      }
+    ]
+  },
+  {
+    "id": "n2yq98ko",
+    "name": "Inbounds Legacy",
+    "weblink": "https://www.speedrun.com/portal?h=Inbounds_No_SLA&x=n2yq98ko",
+    "type": "per-game",
+    "rules": "# **Inbounds Legacy Rules**\r\n\nBeat the game without having any props, your camera, placed portals or traveling portals leave the map.\n\nYou are NOT allowed to do any glitch/trick/route that requires you to utilize loading (this includes autosaves, map transitions, and New Game).\nYou're still allowed to use quicksaves, but everything in your run needs to be theoretically possible without using saving/loading.\n\nVault Skip is banned.\nVertical Angle Glitches are banned.\nAngle Glitch Save Glitch may only be obtained if it is cancelled by the next shot and provides no further benefit to player positioning or portal placement.\nSeamshots are banned, except [this specific one in chamber 17](https://youtu.be/AwZCE1JPoLI).\nIn-game sensitivity must not exceed 10.0.\n\nIf any of those conditions are broken, you need to reload a save (however, shooting a portal through oob space that doesn't land anywhere or accidentally doing clipping glitch in maps like 10 is OK).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yq98ko"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yq98ko/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2yq98ko/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=n2yq98ko"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/n2yq98ko"
+      }
+    ]
+  },
+  {
+    "id": "xwdmg4dq",
+    "name": "Legacy",
+    "weblink": "https://www.speedrun.com/portal/levels?h=Inbounds&x=xwdmg4dq",
+    "type": "per-level",
+    "rules": "[Inbounds category rules](https://www.speedrun.com/portal#Inbounds) apply.  \r\n\r\nThe following speed caps apply to the very start of all Individual Levels:\r\n\r\n-Your horizontal (xy) speed cannot be more than 280 (this is about the maximum speed of a jump, with strafing). \r\n\r\n-Your vertical (z) speed must be between -250 and 150 (This is the speed range when crouch jumping and landing on the same elevation). \r\n\r\nFor *escape 01*, you can't have more speed going into the map than crouch jumping off the rail into the trigger would give you (cannot have more than -445.50 z speed. Example of too much speed would be -455.00).\r\n\r\nIndividual level runs have to be single segment and start on the inbounds level load (e.g. no under or in front of elevator start). You must not start in saveglitch state. No saving/loading. No props from the previous map. Obtaining AGSG state is allowed. You cannot start your Individual Level through New Game. \r\n**Demo proof is required to submit** (video is optional).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xwdmg4dq"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xwdmg4dq/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xwdmg4dq/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xwdmg4dq"
+      }
+    ]
+  },
+  {
+    "id": "02qoxl7k",
+    "name": "Glitchless",
+    "weblink": "https://www.speedrun.com/portal/levels?h=Glitchless&x=02qoxl7k",
+    "type": "per-level",
+    "rules": "[Glitchless category rules](https://www.speedrun.com/portal#Glitchless) apply.  \r\n\r\nThe following speed caps apply to the very start of all Individual Levels:\r\n\r\n-Your horizontal (xy) speed cannot be more than 280 (this is about the maximum speed of a jump, with strafing). \r\n\r\n-Your vertical (z) speed must be between -250 and 150 (This is the speed range when crouch jumping and landing on the same elevation). \r\n\r\nFor *escape 01*, you can't have more speed going into the map than crouch jumping off the rail into the trigger would give you (cannot have more than -445.50 z speed. Example of too much speed would be -455.00).\r\n\r\nIndividual level runs have to be single segment and start on the inbounds level load (e.g. no under or in front of elevator start). You must not start in saveglitch state. No saving/loading. No props from the previous map. Portal boosts are not allowed to be used, even if they are by accident. You cannot start your Individual Level through New Game.\r\n**Demo proof is required to submit** (video is optional).",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qoxl7k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qoxl7k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qoxl7k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02qoxl7k"
+      }
+    ]
+  },
+  {
+    "id": "wk6pexd1",
+    "name": "Glitchless",
+    "weblink": "https://www.speedrun.com/portal?h=Glitchless&x=wk6pexd1",
+    "type": "per-game",
+    "rules": "# **Glitchless Rules**\r\n\nBeat the game, using none of the glitches listed below.\n\nBanned glitches include, but are not limited to:\n\n- Any method of going OoB/placing portals OoB, as defined in the [Inbounds rules](https://www.speedrun.com/portal/full_game#Inbounds)\r\n- Any form of Save Load Abuse, as defined in the [Inbounds No SLA rules](https://www.speedrun.com/portal#Inbounds_No_SLA)\r\n- Using a sensitivity value over 10.0\n- Turret killed Glados\r\n- ABH, AFH, ASH\r\n- Item Climbing or gaining/preserving height from a mid-air prop\r\n- Camera Fly\r\n- Super Object Throw\r\n- Quantum Crouch\r\n- Portal Bumping through objects or entities\r\n- Edge Glitch\r\n- Clipping Glitch\r\n- LAG, AAG, VAG\r\n- Portal Under Door in 09\r\n- Prop and Portal Boosts (accidental boosts are allowed as long as they do not advance you further than possible without glitches)\r\n- Shooting under door at the start of 16\r\n- 11 platform shot\r\n- Item Save Glitch\r\n- Planetary Alignment\r\n- Seamshots\r\n- Infinite Sensitivity / Singularity Warping\n- Shooting portals through gaps in elevator geometry, such as pancake shots\n\nIf you are unsure about whether something is allowed or not, message a mod or ask in the discord.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6pexd1"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6pexd1/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wk6pexd1/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wk6pexd1"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/wk6pexd1"
+      }
+    ]
+  },
+  {
+    "id": "wdm1y5dq",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/ori?h=Any&x=wdm1y5dq",
+    "type": "per-game",
+    "rules": "Complete the game as fast as possible. Timing starts on file creation and ends on losing control of Naru at the end. You may not take advantage of preexisting game state carried over from previous attempts - to avoid this, consider restarting the game each time you finish a run. Make sure your game isn't running faster than it should be; to verify that, contact us on discord.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdm1y5dq"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdm1y5dq/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdm1y5dq/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wdm1y5dq"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/9dor8odp/category/wdm1y5dq"
+      }
+    ]
+  },
+  {
+    "id": "mkeo58nd",
+    "name": "All Skills No OOB",
+    "weblink": "https://www.speedrun.com/ori?h=All_Skills_No_OOB&x=mkeo58nd",
+    "type": "per-game",
+    "rules": "Complete the game with all skills. Out of Bounds tricks and Clips are BANNED. Eg: R1/Escape OoB, Sunstone/Horu OoB, and clipping through the floor in Ginso Tree. \r\nTiming starts on file creation and ends on losing control of Naru at the end. You may not take advantage of preexisting game state carried over from previous attempts - to avoid this, consider restarting the game each time you finish a run. Make sure your game isn't running faster than it should be; to verify that, contact us on discord.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkeo58nd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkeo58nd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkeo58nd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=mkeo58nd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/9dor8odp/category/mkeo58nd"
+      }
+    ]
+  },
+  {
+    "id": "mke6p9d6",
+    "name": "All Cells",
+    "weblink": "https://www.speedrun.com/ori?h=All_Cells&x=mke6p9d6",
+    "type": "per-game",
+    "rules": "Complete the game with all health cells, all energy cells, and all 26 ability cells. Timing starts on file creation and ends on losing control of Naru at the end. You may not take advantage of preexisting game state carried over from previous attempts - to avoid this, consider restarting the game each time you finish a run. Make sure your game isn't running faster than it should be; to verify that, contact us on discord.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/mke6p9d6"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/mke6p9d6/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/mke6p9d6/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=mke6p9d6"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/9dor8odp/category/mke6p9d6"
+      }
+    ]
+  },
+  {
+    "id": "vdov9y2p",
+    "name": "100%",
+    "weblink": "https://www.speedrun.com/ori?h=100&x=vdov9y2p",
+    "type": "per-game",
+    "rules": "Complete the game with 100% map completion, all world events, all health cells, all energy cells, and all 26 ability cells. Timing starts on file creation and ends on losing control of Naru at the end. You may not take advantage of preexisting game state carried over from previous attempts - to avoid this, consider restarting the game each time you finish a run. Make sure your game isn't running faster than it should be; to verify that, contact us on discord.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdov9y2p"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdov9y2p/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdov9y2p/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdov9y2p"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/9dor8odp/category/vdov9y2p"
+      }
+    ]
+  },
+  {
+    "id": "9d8xeo62",
+    "name": "All Stages",
+    "weblink": "https://www.speedrun.com/katana_zero?h=All_Stages&x=9d8xeo62",
+    "type": "per-game",
+    "rules": "Obtain the standard ending to the game, completing all 11 stages.\n\nTiming starts on the first bullet deflect in Factory and ends on the run summary screen.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xeo62"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xeo62/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xeo62/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d8xeo62"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/9d8xeo62"
+      }
+    ]
+  },
+  {
+    "id": "n2y7v3m2",
+    "name": "Golden Ending",
+    "weblink": "https://www.speedrun.com/katana_zero?h=Golden_Ending&x=n2y7v3m2",
+    "type": "per-game",
+    "rules": "Obtain the Golden Ending, dying at the end of Chinatown.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y7v3m2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y7v3m2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y7v3m2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=n2y7v3m2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/n2y7v3m2"
+      }
+    ]
+  },
+  {
+    "id": "7kj19pgk",
+    "name": "Psychotherapy",
+    "weblink": "https://www.speedrun.com/katana_zero?h=Psychotherapy&x=7kj19pgk",
+    "type": "per-game",
+    "rules": "Complete all 11 stages and defeat the secret boss (Psychotherapist)",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kj19pgk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kj19pgk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kj19pgk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7kj19pgk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/7kj19pgk"
+      }
+    ]
+  },
+  {
+    "id": "9kv7l9jk",
+    "name": "Normal, Katana",
+    "weblink": "https://www.speedrun.com/katana_zero/levels?h=Normal_Katana&x=9kv7l9jk",
+    "type": "per-level",
+    "rules": "Complete the level.\r\n\r\nYou must show and submit the game time displayed in the pause screen/in the results screen while comparing to previous best.\r\nPlease leave *Time* empty and only fill in *In-game time*, and make sure to also include the 2 decimal digits.\r\n\r\nAll runs require a video. Sound FX must be audible.\r\n\r\nRun must be completed in normal mode with the prism sword or katana",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv7l9jk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv7l9jk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kv7l9jk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9kv7l9jk"
+      }
+    ]
+  },
+  {
+    "id": "824g0532",
+    "name": "Dragon Mod",
+    "weblink": "https://www.speedrun.com/katana_zero?h=Dragon_Mod&x=824g0532",
+    "type": "per-game",
+    "rules": "Obtain the required ending, completing stages with the Dragon Mod\r\n\r\nThe run must be done using the Standard Katana or the Prism Sword",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/824g0532"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/824g0532/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/824g0532/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=824g0532"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/824g0532"
+      }
+    ]
+  },
+  {
+    "id": "9d8xnz32",
+    "name": "Full Run",
+    "weblink": "https://www.speedrun.com/katana_zero?h=Full_Run&x=9d8xnz32",
+    "type": "per-game",
+    "rules": "This category is for archiving pre-speedrun mode update runs - Runs submitted to this category will NOT be accepted\r\n\r\nAll runs require a video. Sound FX must be audible.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xnz32"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xnz32/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8xnz32/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d8xnz32"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/9d8xnz32"
+      }
+    ]
+  },
+  {
+    "id": "xd1gv98d",
+    "name": "Hard, Katana",
+    "weblink": "https://www.speedrun.com/katana_zero/levels?h=Hard_Katana&x=xd1gv98d",
+    "type": "per-level",
+    "rules": "Complete the level.\r\n\r\nYou must show and submit the game time displayed in the pause screen/in the results screen while comparing to previous best.\r\nPlease leave *Time* empty and only fill in *In-game time*, and make sure to also include the 2 decimal digits.\r\n\r\nAll runs require a video. Sound FX must be audible.\r\n\r\nRun must be completed in hard mode with the prism sword or katana",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1gv98d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1gv98d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1gv98d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd1gv98d"
+      }
+    ]
+  },
+  {
+    "id": "zd3wxnnk",
+    "name": "Normal, Lab Swords",
+    "weblink": "https://www.speedrun.com/katana_zero/levels?h=Normal_Lab_Swords&x=zd3wxnnk",
+    "type": "per-level",
+    "rules": "Complete the level.\r\n\r\nYou must show and submit the game time displayed in the pause screen/in the results screen while comparing to previous best.\r\nPlease leave *Time* empty and only fill in *In-game time*, and make sure to also include the 2 decimal digits.\r\n\r\nAll runs require a video. Sound FX must be audible.\r\n\r\nRun must be played in Normal mode with any sword but the Katana or Prism Sword",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3wxnnk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3wxnnk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd3wxnnk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd3wxnnk"
+      }
+    ]
+  },
+  {
+    "id": "9kvo9502",
+    "name": "Hard, Lab Swords",
+    "weblink": "https://www.speedrun.com/katana_zero/levels?h=Hard_Lab_Swords&x=9kvo9502",
+    "type": "per-level",
+    "rules": "Complete the level.\r\n\r\nYou must show and submit the game time displayed in the pause screen/in the results screen while comparing to previous best.\r\nPlease leave *Time* empty and only fill in *In-game time*, and make sure to also include the 2 decimal digits.\r\n\r\nAll runs require a video. Sound FX must be audible.\r\n\r\nRun must be completed in hard mode with any sword but the katana or prism sword",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvo9502"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvo9502/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvo9502/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9kvo9502"
+      }
+    ]
+  },
+  {
+    "id": "z27ngzk0",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Any&x=z27ngzk0",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game.\n\nhttps://mossranking.com/spelunky-hd/cat/any",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27ngzk0"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27ngzk0/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27ngzk0/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z27ngzk0"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/z27ngzk0"
+      }
+    ]
+  },
+  {
+    "id": "q25yovdo",
+    "name": "Low%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Low&x=q25yovdo",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game, with the following restrictions:\n\n- Increasing Health, Bombs, or Ropes, except from stolen Rope Piles recovered from Monkeys.\n- Collecting any Item that adds an icon to the HUD.\n- Wearing any Item.\n- Pressing the action/whip button while holding any of the following items, except to drop them: Mattock, Boomerang, Machete, Web Gun, Shotgun, Freeze Ray, Plasma Cannon, Camera, Teleporter, Scepter.\n- Picking up the Shield.\n\nhttps://mossranking.com/spelunky-hd/cat/low",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25yovdo"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25yovdo/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25yovdo/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q25yovdo"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/q25yovdo"
+      }
+    ]
+  },
+  {
+    "id": "zdn6w92q",
+    "name": "Chain Hell%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Chain_Hell&x=zdn6w92q",
+    "type": "per-game",
+    "rules": "A run ending with the player killing Yama and completing the game having collected the Ankh, Hedjet, Scepter, and Book of the Dead.\n\nhttps://mossranking.com/spelunky-hd/cat/chain-hell",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn6w92q"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn6w92q/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn6w92q/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdn6w92q"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/zdn6w92q"
+      }
+    ]
+  },
+  {
+    "id": "xk9vpqxd",
+    "name": "No Gold",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Gold&x=xk9vpqxd",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game having never had a score of more than $0 by the time of completion.\n\nhttps://mossranking.com/spelunky-hd/cat/ng",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vpqxd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vpqxd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9vpqxd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk9vpqxd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/xk9vpqxd"
+      }
+    ]
+  },
+  {
+    "id": "z271mn52",
+    "name": "No Gold Low%",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Gold_Low&x=z271mn52",
+    "type": "per-game",
+    "rules": "A Low% run ending with the player completing the game having never had a score of more than $0 by the time of completion.\n\nhttps://mossranking.com/spelunky-hd/cat/ng-low",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271mn52"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271mn52/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z271mn52/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z271mn52"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/z271mn52"
+      }
+    ]
+  },
+  {
+    "id": "zdn8n67d",
+    "name": "No Gold Chain Hell%",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Gold_Chain_Hell&x=zdn8n67d",
+    "type": "per-game",
+    "rules": "A Chain Hell% run ending with the player completing the game having never had a score of more than $0 by the time of completion.\n\nhttps://mossranking.com/spelunky-hd/cat/ng-chain-hell",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8n67d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8n67d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdn8n67d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdn8n67d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/zdn8n67d"
+      }
+    ]
+  },
+  {
+    "id": "02qv95zd",
+    "name": "Max Any%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Max_Any&x=02qv95zd",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game having visited the Worm and the Mothership.\n\nhttps://mossranking.com/spelunky-hd/cat/max-any",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qv95zd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qv95zd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qv95zd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02qv95zd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/02qv95zd"
+      }
+    ]
+  },
+  {
+    "id": "9d83orq2",
+    "name": "Max Low%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Max_Low&x=9d83orq2",
+    "type": "per-game",
+    "rules": "A Low% run ending with the player completing the game having visited the Worm and the Mothership.\n\nhttps://mossranking.com/spelunky-hd/cat/max-low",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d83orq2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d83orq2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d83orq2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d83orq2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/9d83orq2"
+      }
+    ]
+  },
+  {
+    "id": "8240lw3d",
+    "name": "Max Chain Hell%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Max_Chain_Hell&x=8240lw3d",
+    "type": "per-game",
+    "rules": "A Chain Hell% run ending with the player completing the game having visited the Worm and the Mothership.\n\nhttps://mossranking.com/spelunky-hd/cat/max-chain-hell",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/8240lw3d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/8240lw3d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/8240lw3d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=8240lw3d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/8240lw3d"
+      }
+    ]
+  },
+  {
+    "id": "q25mxywd",
+    "name": "No Teleporter Any%",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Teleporter_Any&x=q25mxywd",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game. Using the Teleporter is forbidden.\n\nhttps://mossranking.com/spelunky-hd/cat/notp-any",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25mxywd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25mxywd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25mxywd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q25mxywd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/q25mxywd"
+      }
+    ]
+  },
+  {
+    "id": "xd14py4d",
+    "name": "No Teleporter Max Any%",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Teleporter_Max_Any&x=xd14py4d",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game having visited the Worm and the Mothership. Using the Teleporter is forbidden.\n\nhttps://mossranking.com/spelunky-hd/cat/notp-max-any",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14py4d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14py4d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd14py4d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd14py4d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/xd14py4d"
+      }
+    ]
+  },
+  {
+    "id": "vdoxe99d",
+    "name": "No Teleporter Chain Hell%",
+    "weblink": "https://www.speedrun.com/spelunky?h=No_Teleporter_Chain_Hell&x=vdoxe99d",
+    "type": "per-game",
+    "rules": "A run ending with the player killing Yama and completing the game having collected the Ankh, Hedjet, Scepter, and Book of the Dead. Using the Teleporter is forbidden.\n\nhttps://mossranking.com/spelunky-hd/cat/notp-chain-hell",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdoxe99d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdoxe99d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdoxe99d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdoxe99d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/vdoxe99d"
+      }
+    ]
+  },
+  {
+    "id": "jdzweyxd",
+    "name": "Big Money",
+    "weblink": "https://www.speedrun.com/spelunky?h=Big_Money&x=jdzweyxd",
+    "type": "per-game",
+    "rules": "A run ending with the player completing the game having a final score (including the bonus for beating the game) of at least $500,000.\n\nhttps://mossranking.com/spelunky-hd/cat/big-money",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzweyxd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzweyxd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzweyxd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdzweyxd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/jdzweyxd"
+      }
+    ]
+  },
+  {
+    "id": "rkley362",
+    "name": "Chain Eggplant%",
+    "weblink": "https://www.speedrun.com/spelunky?h=Chain_Eggplant&x=rkley362",
+    "type": "per-game",
+    "rules": "A Chain Hell% run ending with the player killing Yama after hitting him with the Eggplant and completing the game.\n\nhttps://mossranking.com/spelunky-hd/cat/chain-eggplant",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkley362"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkley362/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/rkley362/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=rkley362"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/rkley362"
+      }
+    ]
+  },
+  {
+    "id": "jdrl9z0d",
+    "name": "Chain Low% Hell",
+    "weblink": "https://www.speedrun.com/spelunky?h=Chain_Low_Hell&x=jdrl9z0d",
+    "type": "per-game",
+    "rules": "A Chain Hell% run following Low% restrictions, with the following item requirements:\n\n- Collecting the Udjat Eye is forbidden.\n- Collecting the Ankh, Hedjet, and Book of the Dead is required.\n- Restoring health during resurrection on the Moai level is allowed.\n- The Scepter must be used to open the door to the City of Gold. Firing it is forbidden.\n\nhttps://mossranking.com/spelunky-hd/cat/chain-low-hell",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrl9z0d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrl9z0d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdrl9z0d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdrl9z0d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/jdrl9z0d"
+      }
+    ]
+  },
+  {
+    "id": "ndxpq5o2",
+    "name": "All Shortcuts + Olmec",
+    "weblink": "https://www.speedrun.com/spelunky?h=All_Shortcuts_%2B_Olmec&x=ndxpq5o2",
+    "type": "per-game",
+    "rules": "The player must unlock all of the Tunnel Man shortcuts and then complete the game by defeating Olmec. The run must begin from a new save file except for settings adjusted in the options menu. The timer begins with the choice of player character and stops when the spelunker reappears in the transition screen after exiting Olmec's Lair.\n\nThis category accepts RTA timing only.\n\nhttps://mossranking.com/spelunky-hd/cat/aso",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/ndxpq5o2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/ndxpq5o2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/ndxpq5o2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=ndxpq5o2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/ndxpq5o2"
+      }
+    ]
+  },
+  {
+    "id": "mkejmx92",
+    "name": "All Journal Entries",
+    "weblink": "https://www.speedrun.com/spelunky?h=All_Journal_Entries&x=mkejmx92",
+    "type": "per-game",
+    "rules": "The player must unlock all of the journal entries. The timer begins with the choice of player character and stops once all journal entries are unlocked. The run must begin from a new save file except for settings adjusted in the options menu. To confirm that all entries are unlocked, the player either needs to show all pages from the journal (Places, Monsters, Items, Traps) at the end of the run, or use an approved autosplitter with a video overlay showing all entries.\n\nThis category accepts RTA timing only.\n\nhttps://mossranking.com/spelunky-hd/cat/aje",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkejmx92"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkejmx92/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/mkejmx92/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=mkejmx92"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/mkejmx92"
+      }
+    ]
+  },
+  {
+    "id": "xk9g0zvd",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/ahit?h=Any&x=xk9g0zvd",
+    "type": "per-game",
+    "rules": "---\r\nObjective\r\n---\r\nBeat the game as fast as possible! \r\n\r\nThe run begins after selecting yes on \"Start new game\", and ends when you collect the final \"time piece cluster\".\r\n\r\n---\r\nCategory Specific Rules\r\n---",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9g0zvd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9g0zvd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9g0zvd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk9g0zvd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/xk9g0zvd"
+      }
+    ]
+  },
+  {
+    "id": "z276gz4d",
+    "name": "All Time Pieces",
+    "weblink": "https://www.speedrun.com/ahit?h=All_Time_Pieces&x=z276gz4d",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z276gz4d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z276gz4d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z276gz4d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z276gz4d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/z276gz4d"
+      }
+    ]
+  },
+  {
+    "id": "9kvm74ek",
+    "name": "Restricted",
+    "weblink": "https://www.speedrun.com/ahit/levels?h=Restricted&x=9kvm74ek",
+    "type": "per-level",
+    "rules": "Collect the Time Piece as fast as possible. All general game rules are to be followed, unless otherwise is specified below.\n\nThe following restrictions apply to this category:\n\n- All Badges except Hookshot are banned.\r\n- Time Stop hat is banned.\r\n- The use of Death Wish restarts for exploiting is banned.\n- The use of Ultra Jumps (via the \"Auto-Jump\" option) is banned.\r\n- Hypervaults are banned.\n\nThe speedrun act timer must be enabled and visible in the recording at all times.\n\nThe \"restartIL\" command from the Speedrun Tools mod, or Console Commands Plus mod, is allowed (and encouraged) for faster resets.\n\nUse of unpatched boop is allowed, even on newer versions of the game.\n\nIf the IL is a Death Wish level, peace and tranquility is not allowed to be used.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvm74ek"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvm74ek/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvm74ek/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9kvm74ek"
+      }
+    ]
+  },
+  {
+    "id": "n2y5198k",
+    "name": "Any%",
+    "weblink": "https://www.speedrun.com/ahit/levels?h=Any&x=n2y5198k",
+    "type": "per-level",
+    "rules": "Collect the Time Piece as fast as possible. All general game rules are to be followed, unless otherwise is specified below.\n\nThe speedrun act timer must be enabled and visible in the recording at all times.\n\nThe \"restartIL\" command from the Speedrun Tools mod, or Console Commands Plus mod, is allowed (and encouraged) for faster resets.\n\nUse of unpatched boop is allowed, even on newer versions of the game.\n\nIf the IL is a Death Wish level, peace and tranquility is not allowed to be used.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y5198k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y5198k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y5198k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=n2y5198k"
+      }
+    ]
+  },
+  {
+    "id": "jdr76e02",
+    "name": "Death Wish",
+    "weblink": "https://www.speedrun.com/ahit?h=Death_Wish&x=jdr76e02",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdr76e02"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdr76e02/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdr76e02/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdr76e02"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/jdr76e02"
+      }
+    ]
+  },
+  {
+    "id": "z27rwg5d",
+    "name": "110%",
+    "weblink": "https://www.speedrun.com/ahit?h=110&x=z27rwg5d",
+    "type": "per-game",
+    "rules": "---\r\nObjective\r\n---\r\nBeat the game, collect all Time Pieces and Death Wish stamps as fast as possible!\r\n\r\nThe run begins after selecting yes on \"Start new game.\" For this run, along with the main game time pieces, you must collect the five time pieces from Arctic Cruise, all ten in Nyakuza Metro, as well as the third spaceship rift. On top of this, you must collect all Death Wish stamps. Time ends on the collection of the last stamp or time piece needed, not the finale time piece cluster.\r\n\r\n---\r\nCategory Specific Rules\r\n---\r\n- Returning to the main menu is inevitable due to tour only spawning after collecting 55 time pieces. Due to this, exiting to main menu during the credits cutscene after finale is allowed\r\n- On DLC 2 patches, due to a bug where the timer resets upon first re-entry, an immediate save and quit is allowed to fix the IGT.\r\n- IGT Restorer is allowed to alleviate the above bug.\r\n- The usage of the slomo command to speed up the final game cutscene after collecting the Finale time piece is allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rwg5d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rwg5d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z27rwg5d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z27rwg5d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/z27rwg5d"
+      }
+    ]
+  },
+  {
+    "id": "xk9zxzx2",
+    "name": "All Rifts",
+    "weblink": "https://www.speedrun.com/ahit?h=all-rifts&x=xk9zxzx2",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "up-to",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9zxzx2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9zxzx2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk9zxzx2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk9zxzx2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/xk9zxzx2"
+      }
+    ]
+  },
+  {
+    "id": "jdz91762",
+    "name": "Co-op",
+    "weblink": "https://www.speedrun.com/ahit?h=Co-op&x=jdz91762",
+    "type": "per-game",
+    "rules": "Base game category rules apply here.\n\nLocal cooperative mode is to be submitted only in the \"Local\" subcategory, the rest of the subcategories are online party exclusive (2p, 3p, 4p and 5p+).\n\n# Local Co-op\n\nThe run is timed IGT, and begins upon selecting \"yes\" to creating a new file.\n\n# Online Co-op\n\nRuns must contain all perspectives linked, or edited into one video. The run is timed using RTA, and begins upon selecting \"yes\" to creating a new file.\n\nBoth in game timers (full game and act) are still required to be on at all times.\n\nThe mod \"Online Party Super Syncing\" and \"Enhanced Join Act Menu\" are allowed for use in this category.",
+    "players": {
+      "type": "up-to",
+      "value": 16
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz91762"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz91762/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdz91762/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdz91762"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/jdz91762"
+      }
+    ]
+  },
+  {
+    "id": "8246xjgd",
+    "name": "Any% - No DLC",
+    "weblink": "https://www.speedrun.com/cuphead/levels?h=Any_-_No_DLC&x=8246xjgd",
+    "type": "per-level",
+    "rules": "Complete a boss stage or platforming stage with no additional restrictions.\r\n\r\nThe use of any DLC content (charms, weapons, Chalice, etc.) is prohibited, except where required (i.e. entering a DLC boss).\r\n\r\nIn addition, the use of Djimmi Wishes is banned.\r\n\r\nOnly submit in-game time.\r\n\r\nAll applicable game rules apply.\r\n\r\nMust be played on the version specified by the subcategory.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/8246xjgd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/8246xjgd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/8246xjgd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=8246xjgd"
+      }
+    ]
+  },
+  {
+    "id": "9d8lxv62",
+    "name": "Version 1.1+",
+    "weblink": "https://www.speedrun.com/cuphead?h=Version_1.1&x=9d8lxv62",
+    "type": "per-game",
+    "rules": "",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8lxv62"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8lxv62/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8lxv62/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d8lxv62"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/9d8lxv62"
+      }
+    ]
+  },
+  {
+    "id": "82481pmk",
+    "name": "Legacy Version",
+    "weblink": "https://www.speedrun.com/cuphead?h=Legacy_Version&x=82481pmk",
+    "type": "per-game",
+    "rules": null,
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/82481pmk"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/82481pmk/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/82481pmk/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=82481pmk"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/82481pmk"
+      }
+    ]
+  },
+  {
+    "id": "zd38jgek",
+    "name": "No Major Glitches",
+    "weblink": "https://www.speedrun.com/cuphead?h=No_Major_Glitches&x=zd38jgek",
+    "type": "per-game",
+    "rules": "- [Italiano](https://docs.google.com/document/d/1DfY8NrVRDcvpl2JxICArrvyA2fy8FggtTj2btYA9WZA/edit?ts=601f1678#heading=h.cy7m75i66p57) - @SBDWolf\r\n- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.6hv8xejurry9) - @Facejif\r\n\nBanned techniques:\n\n- Beppi Glitch (freezing Beppi The Clown in his phase 2 form and finishing the fight);\r\n- Sally Stageplay's phase 2 skip (finishing off Sally's phase 1 just before the alternate version of the fight would start, completely skipping phase 2);\r\n- Luigi Swaps (on plane stages, weapon swapping on the same frame as pressing the EX button, allowing to shoot during the EX animation). The use of a Luigi Swap will result in a 4 second time penalty.\r\r\n\nAllowed Techniques:\n\n- Ribby and Croaks's Super Skip (skipping the roll animation that normally plays at the beginning of phase 2);\r\n- Kaleva Swaps (Weapon swapping at any time during the EX animation on non-plane levels, allowing to shoot during it);\r\n- Perfect lobbers (aiming a lobber Ex in-between an enemy's hitbox and the ground to deal double damage);\r\n- Exiting to map at the same time as going through the door in The Tutorial;\r\n- Shop Glitch (buying an item and exiting at the same time);\r\n- Pulling up the equip menu during Porkrind's dialogue.\r\n- Hitting off-screen hitboxes;\r\n- Hitting overlapping hitboxes for double damage;\r\n- Rumor Honeybottoms's quick kill (getting the knockout on Rumor Honeybottoms before going to third phase);\n- Ninja Clip (pressing jump and EX on the same frame while against a wall or object, allowing to clip backwards through it)\r\n\nCan be played on 1.2 or any more recent versions.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd38jgek"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd38jgek/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd38jgek/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd38jgek"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/zd38jgek"
+      }
+    ]
+  },
+  {
+    "id": "9d86pe32",
+    "name": "Highest Grade - No DLC",
+    "weblink": "https://www.speedrun.com/cuphead/levels?h=Highest_Grade_-_No_DLC&x=9d86pe32",
+    "type": "per-level",
+    "rules": "For boss stages, achieve the highest rank possible for your difficulty:\r\n- Simple -> B+\r\n- Regular -> A+\r\n- Expert -> S\r\n\r\nFor platforming stages, achieve the highest rank possible (If your file is not completed yet A+, if your file is completed S.)\r\n\r\nThe use of any DLC content (charms, weapons, Chalice, etc.) is prohibited, except where required (i.e. entering a DLC boss).\r\n\r\nIn addition, the use of Djimmi Wishes is banned.\r\n\r\nOnly submit in-game time.\r\n\r\nAll applicable game rules apply.\r\n\r\nMust be played on the version specified by the subcategory.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d86pe32"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d86pe32/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d86pe32/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=9d86pe32"
+      }
+    ]
+  },
+  {
+    "id": "7kjl0wz2",
+    "name": "DLC",
+    "weblink": "https://www.speedrun.com/cuphead?h=DLC&x=7kjl0wz2",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\nCo-op rules:\n\n- The run has to be played out by two players. Each player must use separate characters and input devices.\r\n\n- Player two must join before entering the first stage/boss (tutorial stage is considered a stage/boss)\r\n\n- Joining during a stage/boss already in progress is not allowed. This includes the removal and rejoining of player two.\r\n\n- No player can leave the screen for more than five seconds without being parried or revived. This is referred to as \u201cThe Five Second Rule\u201d.\r\n\n- Any boss fight needed to complete a run must be entered and completed by both players. If a knockout is achieved within the bounds of the five second rule, then the fight will be considered valid.\r\n\n- Any non boss stage needed to complete a run must be entered with both players but does not need to be completed by both players. There will be no five second rule penalty applied to these stages. \r\n\n- There are two valid options for the resurrection of a player that reaches zero hp and becomes a ghost during the course of a boss fight. They are as followed:                                                       \r\n\n\u2022 The living player must revive their partner's ghost by performing a parry within the area of play.\n\n\u2022 The non living player may utilize a self revival by pressing \u201cesc/start\u201d at the cost of one HP from the living player. This method must be performed within the bounds of the five second rule.\n\n- Sticky Ghosts are allowed to be utilized as long as the non living player's ghost is either visible, or the living player can prove the ghost has been successfully stuck within the area of play by using the ghost to perform a parry within the remainder of the fight. If a ghost can not be seen on screen and has not been proven to have been successfully stuck within the aforementioned time frame, the fight will not be considered valid and will need to be beaten again before continuing the run.\r\n\nOnline play through alternate means, such as Parsec, is allowed.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjl0wz2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjl0wz2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/7kjl0wz2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=7kjl0wz2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/7kjl0wz2"
+      }
+    ]
+  },
+  {
+    "id": "xk95z7g2",
+    "name": "DLC + Base Game",
+    "weblink": "https://www.speedrun.com/cuphead?h=DLC__Base_Game&x=xk95z7g2",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\nCo-op rules:\n\n- The run has to be played out by two players. Each player must use separate characters and input devices.\n\n\r\n\n- Player two must join before entering the first stage/boss (tutorial stage is considered a stage/boss)\r\n\n- Joining during a stage/boss already in progress is not allowed. This includes the removal and rejoining of player two.\r\n\n- No player can leave the screen for more than five seconds without being parried or revived. This is referred to as \u201cThe Five Second Rule\u201d.\r\n\n- Any boss fight needed to complete a run must be entered and completed by both players. If a knockout is achieved within the bounds of the five second rule, then the fight will be considered valid.\r\n\n- Any non boss stage needed to complete a run must be entered with both players but does not need to be completed by both players. There will be no five second rule penalty applied to these stages. \r\n\n- There are two valid options for the resurrection of a player that reaches zero hp and becomes a ghost during the course of a boss fight. They are as followed:                                                       \r\n\n\u2022 The living player must revive their partner's ghost by performing a parry within the area of play.\n\n\u2022 The non living player may utilize a self revival by pressing \u201cesc/start\u201d at the cost of one HP from the living player. This method must be performed within the bounds of the five second rule.\n\n- Sticky Ghosts are allowed to be utilized as long as the non living player's ghost is either visible, or the living player can prove the ghost has been successfully stuck within the area of play by using the ghost to perform a parry within the remainder of the fight. If a ghost can not be seen on screen and has not been proven to have been successfully stuck within the aforementioned time frame, the fight will not be considered valid and will need to be beaten again before continuing the run.\r\n\nOnline play through alternate means, such as Parsec, is allowed.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk95z7g2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk95z7g2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xk95z7g2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xk95z7g2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/xk95z7g2"
+      }
+    ]
+  },
+  {
+    "id": "wdmlxjek",
+    "name": "Co-op",
+    "weblink": "https://www.speedrun.com/cuphead?h=Co-op&x=wdmlxjek",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\nCo-op rules:\n\n- The run has to be played out by two players. Each player must use separate characters and input devices.\r\n\n- Player two must join before entering the first stage/boss (tutorial stage is considered a stage/boss)\r\n\n- Joining during a stage/boss already in progress is not allowed. This includes the removal and rejoining of player two.\r\n\n- No player can leave the screen for more than five seconds without being parried or revived. This is referred to as \u201cThe Five Second Rule\u201d.\r\n\n- Any boss fight needed to complete a run must be entered and completed by both players. If a knockout is achieved within the bounds of the five second rule, then the fight will be considered valid.\r\n\n- Any non boss stage needed to complete a run must be entered with both players but does not need to be completed by both players. There will be no five second rule penalty applied to these stages. \r\n\n- There are two valid options for the resurrection of a player that reaches zero hp and becomes a ghost during the course of a boss fight. They are as followed:                                                       \r\n\n\u2022 The living player must revive their partner's ghost by performing a parry within the area of play.\n\n\u2022 The non living player may utilize a self revival by pressing \u201cesc/start\u201d at the cost of one HP from the living player. This method must be performed within the bounds of the five second rule.\n\n- Sticky Ghosts are allowed to be utilized as long as the non living player's ghost is either visible, or the living player can prove the ghost has been successfully stuck within the area of play by using the ghost to perform a parry within the remainder of the fight. If a ghost can not be seen on screen and has not been proven to have been successfully stuck within the aforementioned time frame, the fight will not be considered valid and will need to be beaten again before continuing the run.\r\n\nOnline play through alternate means, such as Parsec, is allowed.",
+    "players": {
+      "type": "exactly",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmlxjek"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmlxjek/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/wdmlxjek/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=wdmlxjek"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/wdmlxjek"
+      }
+    ]
+  },
+  {
+    "id": "vdomy662",
+    "name": "NMG Co-op",
+    "weblink": "https://www.speedrun.com/cuphead?h=NMG_Co-op&x=vdomy662",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\nCo-op rules:\n\n- The run has to be played out by two players. Each player must use separate characters and input devices.\r\n\n- Player two must join before entering the first stage/boss (tutorial stage is considered a stage/boss)\r\n\n- Joining during a stage/boss already in progress is not allowed. This includes the removal and rejoining of player two.\r\n\n- No player can leave the screen for more than five seconds without being parried or revived. This is referred to as \u201cThe Five Second Rule\u201d.\r\n\n- Any boss fight needed to complete a run must be entered and completed by both players. If a knockout is achieved within the bounds of the five second rule, then the fight will be considered valid.\r\n\n- Any non boss stage needed to complete a run must be entered with both players but does not need to be completed by both players. There will be no five second rule penalty applied to these stages. \r\n\n- There are two valid options for the resurrection of a player that reaches zero hp and becomes a ghost during the course of a boss fight. They are as followed:                                                       \r\n\n\u2022 The living player must revive their partner's ghost by performing a parry within the area of play.\n\n\u2022 The non living player may utilize a self revival by pressing \u201cesc/start\u201d at the cost of one HP from the living player. This method must be performed within the bounds of the five second rule.\n\n- Sticky Ghosts are allowed to be utilized as long as the non living player's ghost is either visible, or the living player can prove the ghost has been successfully stuck within the area of play by using the ghost to perform a parry within the remainder of the fight. If a ghost can not be seen on screen and has not been proven to have been successfully stuck within the aforementioned time frame, the fight will not be considered valid and will need to be beaten again before continuing the run.\r\n\n- Online play through alternate means, such as Parsec, is allowed.\r\n\nBanned techniques:\n\n- Beppi Glitch (freezing Beppi The Clown in his phase 2 form and finishing the fight);\r\n- Sally Stageplay's phase 2 skip (finishing off Sally's phase 1 just before the alternate version of the fight would start, completely skipping phase 2);\r\n- Luigi Swaps (on plane stages, weapon swapping on the same frame as pressing the EX button, allowing to shoot during the EX animation).\r\n\nAllowed Techniques:\n\n- Ribby and Croaks's Super Skip (skipping the roll animation that normally plays at the beginning of phase 2);\r\n- Kaleva Swaps (Weapon swapping at any time during the EX animation on non-plane levels, allowing to shoot during it);\r\n- Perfect lobbers (aiming a lobber Ex in-between an enemy's hitbox and the ground to deal double damage);\r\n- Exiting to map at the same time as going through the door in The Tutorial;\r\n- Shop Glitch (buying an item and exiting at the same time);\r\n- Pulling up the equip menu during Porkrind's dialogue.\r\n- Hitting off-screen hitboxes;\r\n- Hitting overlapping hitboxes for double damage;\r\n- Rumor Honeybottoms's quick kill (getting the knockout on Rumor Honeybottoms before going to third phase);\n- Ninja Clip (pressing jump and EX on the same frame while against a wall or object, allowing to clip backwards through it)\r\n\nCan be played on 1.2 or any more recent versions.",
+    "players": {
+      "type": "exactly",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdomy662"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdomy662/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/vdomy662/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=vdomy662"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/vdomy662"
+      }
+    ]
+  },
+  {
+    "id": "xd1q3vz2",
+    "name": "Any% (Menu Glitch)",
+    "weblink": "https://www.speedrun.com/cuphead?h=Any_Menu_Glitch&x=xd1q3vz2",
+    "type": "per-game",
+    "rules": "Playing on a clean file, beat the game as fast as possible by defeating The Devil.\r\n\r\nMenu Glitch is allowed. All of the other game rules apply.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1q3vz2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1q3vz2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/xd1q3vz2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=xd1q3vz2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/xd1q3vz2"
+      }
+    ]
+  },
+  {
+    "id": "q25qoe82",
+    "name": "Bad Ending (Menu Glitch)",
+    "weblink": "https://www.speedrun.com/cuphead?h=Bad_Ending_Menu_Glitch&x=q25qoe82",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.uta4w1cvxqr) - @Facejif\r\n\r\nPlaying on a clean file, reach the credits by any means necessary. Timer ends upon selecting \"Yes\" at the Devil OR on the knockout screen on the Devil.\r\n\r\nMenu Glitch is allowed. All other game rules apply.\r\n\r\nAll competitive run submissions must contain in-game audio. Here are what we define as competitive for the following \"Bad Ending (Menu Glitch)\" categories:\r\n- Bad Ending (Menu Glitch) Legacy: below 24 minutes\r\n\r\nIf a category is not listed above, all \"Bad Ending (Menu Glitch)\" runs will be accepted without in-game audio for now unless they classify as World Record.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25qoe82"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25qoe82/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/q25qoe82/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=q25qoe82"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/q25qoe82"
+      }
+    ]
+  },
+  {
+    "id": "02qpv69d",
+    "name": "Bad Ending (Menu Glitch) Co-op",
+    "weblink": "https://www.speedrun.com/cuphead?h=Bad_Ending_Menu_Glitch_Co-op&x=02qpv69d",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\r\nCo-op rules:\r\n\r\n- The run has to be played out by two people, one playing Cuphead and the other playing Mugman.\r\n\r\n- Second player must join the game during elder kettle first dialogue or in overworld map before first stage will be played ( in case of playing tutorial stage you need to join in elder kettle house )\r\n\r\n- All stages must be played with two players, starting from stage selection in overworld to result screen, you are not allowed to join the game in middle of stages\r\n\r\n- If a player dies while a fight is still in progress, they have to either be revived before their ghost leaves the area of play, or they have to rejoin within 5 seconds of their ghost leaving the screen (the dead player has to press start if using controller or esc if using keyboard to steal an HP from the living player). If \"A knockout!\" appears and one of the two players is still visible on screen in ghost form, they are allowed to not be revived during the screen fade-out. This rule does not apply to run 'n gun stages, those can be finished with only one player alive.\r\n\r\n- Online play through alternate means, such as Parsec, is allowed.\r\n\r\n\r\n\r\nPlaying on a clean file, reach the credits by any means necessary. Timer ends upon selecting \"Yes\" at the Devil OR on the knockout screen on the Devil.\r\n\r\nMenu Glitch is allowed. All other game rules apply.",
+    "players": {
+      "type": "exactly",
+      "value": 2
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qpv69d"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qpv69d/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02qpv69d/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02qpv69d"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/02qpv69d"
+      }
+    ]
+  },
+  {
+    "id": "jdzo36x2",
+    "name": "Bad Ending Low%",
+    "weblink": "https://www.speedrun.com/cuphead?h=Bad_Ending_Low&x=jdzo36x2",
+    "type": "per-game",
+    "rules": "Playing on a clean file, reach the credits by any means necessary while doing only what is necessary to beat the game. This means no Run and Guns/Mausoleums, no Devil fight, no coins, and no weapons* other than Peashooter and plane Machine Gun. For Simple, only the same three bosses required in Simple% are required here. That is to say, Rumor Honeybottoms, Sally Stageplay, and Phantom Express are the only bosses needed.\r\n\r\n*Peashooter and Machine Gun EX attacks are allowed, since they're inherently attached to the weapons in question.\r\n\r\nTimer ends upon selecting \"Yes\" at the Devil.\r\n\r\nFor Expert, you must use the Fresh Expert Glitch. See: [link](https://docs.google.com/document/d/1OEchIopd8IqfKu283U0rWYzN44mg-OJSR9pnlSp3UyE/edit#) (towards bottom of document under Glitches - Difficulty).\r\n\r\nAll of the game rules apply.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzo36x2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzo36x2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/jdzo36x2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=jdzo36x2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/jdzo36x2"
+      }
+    ]
+  },
+  {
+    "id": "02q7gmzd",
+    "name": "Bad Ending Low% Co-op",
+    "weblink": "https://www.speedrun.com/cuphead?h=Bad_Ending_Low_Co-op&x=02q7gmzd",
+    "type": "per-game",
+    "rules": "Playing on a clean file, reach the credits by any means necessary while doing only what is necessary to beat the game. This means no Run and Guns/Mausoleums, no Devil fight, no coins, and no weapons* other than Peashooter and plane Machine Gun. For Simple, only the same three bosses required in Simple% are required here. That is to say, Rumor Honeybottoms, Sally Stageplay, and Phantom Express are the only bosses needed.\r\n\r\n*Peashooter and Machine Gun EX attacks are allowed, since they're inherently attached to the weapons in question.\r\n\r\nTimer ends upon selecting \"Yes\" at the Devil.\r\n\r\nFor Expert, you must use the Fresh Expert Glitch. See: [link](https://docs.google.com/document/d/1OEchIopd8IqfKu283U0rWYzN44mg-OJSR9pnlSp3UyE/edit#) (towards bottom of document under Glitches - Difficulty).\r\n\r\n\r\nCo-op rules:\r\n\r\n- The run has to be played out by two people, one playing Cuphead and the other playing Mugman.\r\n\r\n- Second player must join the game during elder kettle first dialogue or in overworld map before first stage will be played ( in case of playing tutorial stage you need to join in elder kettle house )\r\n\r\n- All stages must be played with two players, starting from stage selection in overworld to result screen, you are not allowed to join the game in middle of stages\r\n\r\n- If a player dies while a fight is still in progress, they have to either be revived before their ghost leaves the area of play, or they have to rejoin within 5 seconds of their ghost leaving the screen (the dead player has to press start if using controller or esc if using keyboard to steal an HP from the living player). If \"A knockout!\" appears and one of the two players is still visible on screen in ghost form, they are allowed to not be revived during the screen fade-out. This rule does not apply to run 'n gun stages, those can be finished with only one player alive.\r\n\r\n- Online play through alternate means, such as Parsec, is allowed.\r\n\r\n\r\nAll of the game rules apply.",
+    "players": {
+      "type": "exactly",
+      "value": 2
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q7gmzd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q7gmzd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/02q7gmzd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=02q7gmzd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/02q7gmzd"
+      }
+    ]
+  },
+  {
+    "id": "z275j35k",
+    "name": "Any% - DLC",
+    "weblink": "https://www.speedrun.com/cuphead/levels?h=Any_-_DLC&x=z275j35k",
+    "type": "per-level",
+    "rules": "Complete a boss stage or platforming stage with no additional restrictions.\n\nThis category is only meant for runs which use any DLC weapons, charms, or Chalice. If your run does not use DLC content, please submit to the No DLC version of this category.\n\nThe use of Djimmi Wishes is banned.\n\nRuns must be completed on Version 1.3.4 or any more recent versions.\n\nOnly submit in-game time.\n\nAll applicable game rules apply.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/z275j35k"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/z275j35k/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/z275j35k/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=z275j35k"
+      }
+    ]
+  },
+  {
+    "id": "zdno9r72",
+    "name": "Highest Grade - DLC",
+    "weblink": "https://www.speedrun.com/cuphead/levels?h=Highest_Grade_-_DLC&x=zdno9r72",
+    "type": "per-level",
+    "rules": "For boss stages, achieve the highest rank possible for your difficulty:\n\n- Simple -> B+\r\n- Regular -> A+\r\n- Expert -> S\r\n\nFor platforming stages, achieve the highest rank possible (If your file is not completed yet A+, if your file is completed S.)\n\nThis category is only meant for runs which use any DLC weapons, charms, or Chalice. If your run does not use DLC content, please submit to the No DLC version of this category.\n\nThe use of Djimmi Wishes is banned.\n\nRuns must be completed on Version 1.3.4 or any more recent versions.\n\nOnly submit in-game time.\n\nAll applicable game rules apply.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": false,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdno9r72"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdno9r72/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zdno9r72/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zdno9r72"
+      }
+    ]
+  },
+  {
+    "id": "zd360ovd",
+    "name": "Simple",
+    "weblink": "https://www.speedrun.com/cuphead?h=Simple&x=zd360ovd",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.euzmjgd5rdqs) - @Facejif\r\n\r\nPlaying on a clean file, unlock Hell while only completing stages on the Simple difficulty. Timer ends on selecting difficulty on \"All Bets Are Off!\".\r\n\r\nAll of the game rules apply.\r\n\r\nAll competitive run submissions must contain in-game audio. Here are what we define as competitive for the following \"Simple\" categories:\r\n- Simple% Legacy: below 16 minutes\r\n- Simple% Current Patch: below 19 minutes\r\n\r\nIf a category is not listed above, all \"Simple\" runs will be accepted without in-game audio for now unless they classify as World Record.",
+    "players": {
+      "type": "exactly",
+      "value": 1
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd360ovd"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd360ovd/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd360ovd/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=zd360ovd"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/zd360ovd"
+      }
+    ]
+  },
+  {
+    "id": "82410zn2",
+    "name": "Simple Co-op",
+    "weblink": "https://www.speedrun.com/cuphead?h=Simple_Co-op&x=82410zn2",
+    "type": "per-game",
+    "rules": "- [P\u0443\u0441\u0441\u043a\u0438\u0439](https://docs.google.com/document/d/11EEqRcQLu4IFqr_wvaBwfpA7CRc0EZujBQ1VIsJwLlo/edit#heading=h.wza472een65l) - @Facejif\r\n\r\nCo-op rules:\r\n\r\n- The run has to be played out by two people, one playing Cuphead and the other playing Mugman.\r\n\r\n- Second player must join the game during elder kettle first dialogue or in overworld map before first stage will be played ( in case of playing tutorial stage you need to join in elder kettle house )\r\n\r\n- All stages must be played with two players, starting from stage selection in overworld to result screen, you are not allowed to join the game in middle of stages\r\n\r\n- If a player dies while a fight is still in progress, they have to either be revived before their ghost leaves the area of play, or they have to rejoin within 5 seconds of their ghost leaving the screen (the dead player has to press start if using controller or esc if using keyboard to steal an HP from the living player). If \"A knockout!\" appears and one of the two players is still visible on screen in ghost form, they are allowed to not be revived during the screen fade-out. This rule does not apply to run 'n gun stages, those can be finished with only one player alive.\r\n\r\n- Online play through alternate means, such as Parsec, is allowed.\r\n\r\n\r\n\r\nPlaying on a clean file, unlock Hell while only completing stages on the Simple difficulty. Timer ends on selecting difficulty on \"All Bets Are Off!\".\r\n\r\nAll of the game rules apply.",
+    "players": {
+      "type": "exactly",
+      "value": 2
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/82410zn2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/82410zn2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/82410zn2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=82410zn2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/82410zn2"
+      }
+    ]
+  },
+  {
+    "id": "rklqlnn2",
+    "name": "ARCHIVE: AB Menu Glitch, Simple",
+    "weblink": "https://www.speedrun.com/cuphead?h=ARCHIVE_AB_Menu_Glitch_Simple&x=rklqlnn2",
+    "type": "per-game",
+    "rules": "Archive notes: This category contains all the runs from the old All Bosses Menu Glitch - Solo, Simple, Legacy category. The regular runs got moved to Any%, and all the other subcategories were empty.\r\n\r\nPlaying on a clean file, defeat all main bosses (i.e. you don't have to beat all 9 of King Dice's \"minibosses\") on a single difficulty. \r\n\r\nYou are allowed to use the Menu Glitch in this category. Please refrain from submitting in this category if you have not used this glitch.\r\n\r\nFor Expert, you must use the Fresh Expert Glitch. See: [link](https://www.docs.google.com/document/d/1OEchIopd8IqfKu283U0rWYzN44mg-OJSR9pnlSp3UyE/edit#) (towards bottom of document under Glitches - Difficulty).\r\n\r\nGeneral Rules:\r\n- Timer starts on file select.\r\n- See subcategory rules for timer end point.\r\n- Switching difficulties during the run is not allowed.\r\n- Runs must be completed in a single segment. Pauses are allowed, but the timer must remain running. If not, we will add the time in manually.\r\n- PC runs have the option to use the autosplitter/load remover. If they do, submit loadless time.\r\n- Xbox runs (or non-load removed PC runs) should submit RTA as \"time with loads.\"\r\n- VSync is not allowed if you have a monitor with a refresh rate higher than 60Hz. In such cases, VSync must remain off. If your monitor is 60Hz or less, you have the option to leave it on.\r\n- Aside from Fresh Expert Glitch, runs should not make use of data/setup from another save or profile (i.e. Apple text skip, world warping, etc. are not allowed)\r\n- Third party software, other than keybinders, are not allowed. If using a keybinder, you must set it up to be 1-to-1. That is to say, an action must be linked to one and only one button. (Example: Jump can't be linked to both A and X.) You also cannot map a button to another button. (Example: The X button can't be linked to the A button). Macros and turbos are not allowed. \r\n- Please refrain from submitting runs with in-game time attached.\r\n\r\nProof Guidelines:\r\n- You must provide a recording of the FULL run.\r\n- The bottom left corner (HP and equipped weapon) must be visible. For Co-Op, bottom right corner must be visible as well.\r\n- If using the load remover, the loadless timer must be visible in the recording at all times.",
+    "players": {
+      "type": "up-to",
+      "value": 2
+    },
+    "miscellaneous": true,
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/categories/rklqlnn2"
+      },
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/categories/rklqlnn2/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/categories/rklqlnn2/records"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?category=rklqlnn2"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/rklqlnn2"
+      }
+    ]
+  }
+]

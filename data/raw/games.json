@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "o1y9j9v6",
+    "names": {
+      "international": "Celeste",
+      "japanese": null,
+      "twitch": "Celeste"
+    },
+    "boostReceived": 58,
+    "boostDistinctDonors": 22,
+    "abbreviation": "celeste",
+    "weblink": "https://www.speedrun.com/celeste",
+    "discord": "https://discord.gg/XYBb8ja",
+    "released": 2018,
+    "release-date": "2018-01-25",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime",
+        "ingame"
+      ],
+      "default-time": "ingame",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "7m6ylw9p",
+      "4p9z0r6r",
+      "o064j163",
+      "o064z1e3",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w",
+      "w89rqoel",
+      "3167lw9q"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "48grepxp": "super-moderator",
+      "pj09erjw": "super-moderator",
+      "v8l4kn2j": "super-moderator",
+      "v81qmp5j": "super-moderator",
+      "68w3gdqj": "super-moderator",
+      "18qgpv0x": "super-moderator",
+      "qxkvre2j": "super-moderator",
+      "0jm5z0ox": "super-moderator",
+      "v815ovrj": "super-moderator",
+      "0jmw4pex": "super-moderator",
+      "7j43k9l8": "moderator",
+      "qxk9omm8": "super-moderator",
+      "814wlm58": "super-moderator",
+      "86vvqv0j": "super-moderator",
+      "8143dol8": "moderator",
+      "8qzml0d8": "super-moderator",
+      "8qz4m9q8": "super-moderator",
+      "jmo1l1o8": "moderator",
+      "86nmyvwx": "super-moderator",
+      "j4211d5x": "super-moderator",
+      "j5vwnmq8": "super-moderator",
+      "863p23q8": "super-moderator",
+      "8r3dr168": "moderator",
+      "jonl5e78": "moderator"
+    },
+    "created": "2018-01-15T20:23:45Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/logo?v=e526c97"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/o1y9j9v6/cover?v=9003452"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/o1y9j9v6/cover?v=9003452"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/o1y9j9v6/cover?v=9003452"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/o1y9j9v6/cover?v=9003452"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/favicon?v=f779f62"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/1st?v=293b82e"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/2nd?v=dcf2399"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/3rd?v=64df91a"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/prd437rn/background?v=ef33b88"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=o1y9j9v6"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/q4zj23gn"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9j9v6/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9j9v6/category/7dgr144k"
+      }
+    ]
+  },
+  {
+    "id": "76rqmld8",
+    "names": {
+      "international": "Hollow Knight",
+      "japanese": null,
+      "twitch": "Hollow Knight"
+    },
+    "boostReceived": 50,
+    "boostDistinctDonors": 14,
+    "abbreviation": "hollowknight",
+    "weblink": "https://www.speedrun.com/hollowknight",
+    "discord": "https://discord.gg/3JtHPsBjHD",
+    "released": 2017,
+    "release-date": "2017-02-24",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime",
+        "realtime_noloads"
+      ],
+      "default-time": "realtime_noloads",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "7m6ylw9p",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w",
+      "w89rqoel",
+      "3167lw9q"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "o86w5pwx": "moderator",
+      "0jmvyp4j": "super-moderator",
+      "98rn7oqx": "moderator",
+      "j2yvmyn8": "super-moderator",
+      "j4r6pwm8": "moderator",
+      "j5wggrgj": "super-moderator",
+      "8dwynvgj": "super-moderator",
+      "8v5yqoyj": "super-moderator",
+      "jpr9lw48": "super-moderator",
+      "8e9yp1oj": "super-moderator",
+      "8wl2k93j": "moderator",
+      "8vk9e12j": "super-moderator",
+      "8eny4qo8": "super-moderator",
+      "x729epq8": "super-moderator",
+      "816gld5x": "super-moderator",
+      "j2w46z6j": "super-moderator",
+      "8r7zvl6j": "super-moderator",
+      "j26v117x": "super-moderator",
+      "8w1yodzx": "super-moderator",
+      "j0vn1z4x": "super-moderator",
+      "jn92nzdx": "super-moderator",
+      "8w1065vx": "super-moderator",
+      "8g5vyerj": "super-moderator",
+      "81q73oqj": "super-moderator",
+      "8g5god2j": "super-moderator",
+      "8w1pm5qx": "super-moderator",
+      "jn9kgwdx": "super-moderator",
+      "j0gvegwx": "moderator",
+      "8gm2qn78": "super-moderator",
+      "jpopv2k8": "super-moderator",
+      "8gmpy218": "moderator",
+      "xk1np77j": "super-moderator",
+      "x7604oqj": "super-moderator",
+      "x3w7wrqj": "super-moderator",
+      "x76p3d6j": "super-moderator",
+      "jpy3ldyj": "super-moderator",
+      "j2qwp17j": "super-moderator",
+      "j46pr4w8": "super-moderator",
+      "8dpv4e98": "super-moderator",
+      "8v0qw0nx": "super-moderator",
+      "x36g5zkx": "super-moderator",
+      "j2qkpdlj": "super-moderator",
+      "xz5oy64x": "super-moderator",
+      "8d95egox": "super-moderator",
+      "j0127mwx": "super-moderator"
+    },
+    "created": "2017-03-05T19:53:14Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/logo?v=1a2ee69"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/76rqmld8/cover?v=a2d917a"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/76rqmld8/cover?v=a2d917a"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/76rqmld8/cover?v=a2d917a"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/76rqmld8/cover?v=a2d917a"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/favicon?v=79276da"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/1st?v=9e16d6b"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/2nd?v=bb33e14"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/3rd?v=0758a45"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/g84370r3/background?v=9eedca9"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=76rqmld8"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/wnp1vlzn"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/76rqmld8/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/76rqmld8/category/02q8o4p2"
+      }
+    ]
+  },
+  {
+    "id": "o1y9okr6",
+    "names": {
+      "international": "Hades",
+      "japanese": null,
+      "twitch": "Hades"
+    },
+    "boostReceived": 38,
+    "boostDistinctDonors": 8,
+    "abbreviation": "hades",
+    "weblink": "https://www.speedrun.com/hades",
+    "discord": "https://discord.gg/sCefJUdbJp",
+    "released": 2018,
+    "release-date": "2018-12-06",
+    "ruleset": {
+      "show-milliseconds": false,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime",
+        "ingame"
+      ],
+      "default-time": "ingame",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "gde3xgek",
+      "mx6ppw63",
+      "7m6ylw9p",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "68wrwqlj": "moderator",
+      "8dwwm3gj": "super-moderator",
+      "j926gor8": "super-moderator",
+      "8e9k1yoj": "moderator",
+      "8georwrj": "super-moderator",
+      "jprerp28": "super-moderator",
+      "86v2e33j": "moderator",
+      "816w31rx": "moderator",
+      "8d3lm55x": "super-moderator",
+      "xyrl5lmj": "super-moderator",
+      "jn9440dx": "super-moderator",
+      "8lp06y2j": "super-moderator",
+      "8dggqwo8": "super-moderator",
+      "8d0rypox": "super-moderator",
+      "jpy5ndkj": "super-moderator"
+    },
+    "created": "2018-12-16T18:48:17Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/logo?v=d71edd7"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/o1y9okr6/cover?v=fb81928"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/o1y9okr6/cover?v=fb81928"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/o1y9okr6/cover?v=fb81928"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/o1y9okr6/cover?v=fb81928"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/favicon?v=7f661bb"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/1st?v=1ff91e3"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/2nd?v=ed1ded1"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/3rd?v=98441a6"
+      },
+      "trophy-4th": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/4th?v=7c487e5"
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/zr0g008m/background?v=eb1d378"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=o1y9okr6"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/y71ke20n"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/o1y9okr6/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/o1y9okr6/category/zd3xmmvd"
+      }
+    ]
+  },
+  {
+    "id": "j1nrmwdp",
+    "names": {
+      "international": "DOOM",
+      "japanese": null,
+      "twitch": "Doom"
+    },
+    "boostReceived": 17,
+    "boostDistinctDonors": 4,
+    "abbreviation": "d2016",
+    "weblink": "https://www.speedrun.com/d2016",
+    "discord": "https://discord.gg/dtDa9VZ",
+    "released": 2016,
+    "release-date": "2016-05-13",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime"
+      ],
+      "default-time": "realtime",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "7m6ylw9p",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "18q3nwjn": "super-moderator",
+      "7j42mzdx": "super-moderator",
+      "y8drl5mx": "super-moderator",
+      "5j5z776j": "moderator",
+      "0jmwrqzx": "moderator",
+      "0jm1l6yj": "moderator",
+      "j96eq5vj": "moderator"
+    },
+    "created": "2016-05-14T07:31:25Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/logo?v=2893e9b"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/j1nrmwdp/cover?v=070f91a"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/j1nrmwdp/cover?v=070f91a"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/j1nrmwdp/cover?v=070f91a"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/j1nrmwdp/cover?v=070f91a"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/favicon?v=73c6972"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/1st?v=8db3ae0"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/2nd?v=e872bc4"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/3rd?v=e39c294"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/zr2n6nr4/background?v=2f350fa"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=j1nrmwdp"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/87mjox76"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/j1nrmwdp/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/j1nrmwdp/category/jdz5po6d"
+      }
+    ]
+  },
+  {
+    "id": "4pd0n31e",
+    "names": {
+      "international": "Portal",
+      "japanese": null,
+      "twitch": "Portal"
+    },
+    "boostReceived": 23,
+    "boostDistinctDonors": 15,
+    "abbreviation": "portal",
+    "weblink": "https://www.speedrun.com/portal",
+    "discord": "https://discord.gg/gQ285vS",
+    "released": 2007,
+    "release-date": "2007-10-09",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": false,
+      "run-times": [
+        "realtime",
+        "realtime_noloads"
+      ],
+      "default-time": "realtime_noloads",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "mx6pwe3g",
+      "n568oevp",
+      "o7e2mx6w",
+      "8gej2n93",
+      "7m6ylw9p",
+      "nzelyv9q",
+      "o7e2xj9w",
+      "3167lw9q"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "68wkm38g": "super-moderator",
+      "18vr5r2x": "super-moderator",
+      "o86kg0wx": "super-moderator",
+      "y8dkv0oj": "super-moderator",
+      "kjpgvq0j": "moderator",
+      "18vzk52j": "moderator",
+      "18vzv45j": "super-moderator",
+      "qjnnlpdj": "moderator",
+      "zxzr9z98": "super-moderator",
+      "jmoolve8": "moderator",
+      "86vk7r5j": "super-moderator",
+      "x35vypej": "super-moderator",
+      "8e9vm27j": "moderator",
+      "jp4me6yj": "super-moderator",
+      "8gr217yx": "super-moderator",
+      "xyrp39nj": "super-moderator",
+      "8lp3qz4j": "moderator",
+      "8q3mykoj": "super-moderator",
+      "8w33zn3j": "super-moderator",
+      "j46ppkl8": "super-moderator"
+    },
+    "created": null,
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/logo?v=9bebcf1"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/4pd0n31e/cover?v=1d3445a"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/4pd0n31e/cover?v=1d3445a"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/4pd0n31e/cover?v=1d3445a"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/4pd0n31e/cover?v=1d3445a"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/favicon?v=3185805"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/1st?v=634af36"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/2nd?v=41af92d"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/3rd?v=f95f4dd"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/k8kny384/background?v=0fb8b9a"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=4pd0n31e"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/w87mrx46"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/4pd0n31e/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/4pd0n31e/category/xw20jzkn"
+      }
+    ]
+  },
+  {
+    "id": "9dor8odp",
+    "names": {
+      "international": "Ori and the Blind Forest",
+      "japanese": null,
+      "twitch": "Ori and the Blind Forest"
+    },
+    "boostReceived": 0,
+    "boostDistinctDonors": 0,
+    "abbreviation": "ori",
+    "weblink": "https://www.speedrun.com/ori",
+    "discord": "",
+    "released": 2015,
+    "release-date": "2015-03-11",
+    "ruleset": {
+      "show-milliseconds": false,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime"
+      ],
+      "default-time": "realtime",
+      "emulators-allowed": true
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "o7e2mx6w",
+      "8gej2n93"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "kv81p58p": "super-moderator",
+      "0jmqgex1": "super-moderator",
+      "v816qrqx": "moderator",
+      "98rm6r3j": "moderator",
+      "e8ee7ed8": "moderator",
+      "68wg12qx": "moderator",
+      "18v721e8": "super-moderator",
+      "xy5py3m8": "super-moderator"
+    },
+    "created": "2015-03-13T12:40:37Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/images/logo.png"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/9dor8odp/cover?v=9c63d14"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/9dor8odp/cover?v=9c63d14"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/9dor8odp/cover?v=9c63d14"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/9dor8odp/cover?v=9c63d14"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/68qdqvrp/favicon?v=cbb60c0"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/images/1st.png"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/images/2nd.png"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/images/3rd.png"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/68qdqvrp/background?v=f2e5438"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=9dor8odp"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/049lm64v"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/9dor8odp/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/9dor8odp/category/wdm1y5dq"
+      }
+    ]
+  },
+  {
+    "id": "lde3nex6",
+    "names": {
+      "international": "Katana ZERO",
+      "japanese": null,
+      "twitch": "Katana Zero"
+    },
+    "boostReceived": 1,
+    "boostDistinctDonors": 1,
+    "abbreviation": "katana_zero",
+    "weblink": "https://www.speedrun.com/katana_zero",
+    "discord": "https://discord.gg/4xsEsg2",
+    "released": 2019,
+    "release-date": "2019-04-18",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime",
+        "ingame"
+      ],
+      "default-time": "ingame",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "o7e2mx6w",
+      "8gej2n93",
+      "lq60nl94",
+      "7m6ylw9p",
+      "nzelyv9q",
+      "o7e2xj9w"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "dx3mkmq8": "super-moderator",
+      "y8d7llg8": "super-moderator",
+      "zxzwqo0x": "super-moderator",
+      "y8d6qgox": "super-moderator",
+      "8v5v52nj": "super-moderator",
+      "8l40ee4j": "super-moderator",
+      "8wlrmzqj": "super-moderator",
+      "xzlev3r8": "super-moderator",
+      "8q65r2oj": "super-moderator"
+    },
+    "created": "2019-03-24T23:05:42Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/logo?v=1ec320c"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/lde3nex6/cover?v=e7348ea"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/lde3nex6/cover?v=e7348ea"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/lde3nex6/cover?v=e7348ea"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/lde3nex6/cover?v=e7348ea"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/favicon?v=c59f0f6"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/1st?v=34d1cde"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/2nd?v=b0a9ede"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/3rd?v=39a8a38"
+      },
+      "trophy-4th": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/4th?v=491f52c"
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/g842j3w3/background?v=f34ef30"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=lde3nex6"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/yr4gon12"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/lde3nex6/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/lde3nex6/category/9d8xeo62"
+      }
+    ]
+  },
+  {
+    "id": "2685ok6p",
+    "names": {
+      "international": "Spelunky",
+      "japanese": null,
+      "twitch": "Spelunky"
+    },
+    "boostReceived": 1,
+    "boostDistinctDonors": 1,
+    "abbreviation": "spelunky",
+    "weblink": "https://www.speedrun.com/spelunky",
+    "discord": "https://mossranking.com/discord",
+    "released": 2013,
+    "release-date": "2013-08-08",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime",
+        "ingame"
+      ],
+      "default-time": "ingame",
+      "emulators-allowed": true
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "mx6pwe3g",
+      "n568oevp",
+      "4p9z70er",
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "7m6ylw9p",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w",
+      "3167lw9q"
+    ],
+    "regions": [
+      "pr184lqn",
+      "e6lxy1dz",
+      "o316x197",
+      "mol4z19n",
+      "p2g50lnk",
+      "ypl25l47"
+    ],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "zxzq79xq": "moderator",
+      "5j5wpznj": "super-moderator",
+      "0jmzenex": "super-moderator",
+      "y8dpnro8": "super-moderator",
+      "zx7gmz0x": "super-moderator",
+      "1xyyq0zx": "super-moderator",
+      "48glr97x": "moderator",
+      "48gl9qpx": "super-moderator",
+      "j2y17rn8": "super-moderator",
+      "86vy74qj": "super-moderator",
+      "jpreo4y8": "super-moderator"
+    },
+    "created": "2015-05-22T02:11:49Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/logo?v=f0c6b13"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/2685ok6p/cover?v=c039c04"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/2685ok6p/cover?v=c039c04"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/2685ok6p/cover?v=c039c04"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/2685ok6p/cover?v=c039c04"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/favicon?v=80726e7"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/1st?v=29fe952"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/2nd?v=288f9ba"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/3rd?v=c01046c"
+      },
+      "trophy-4th": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/4th?v=54d559c"
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/grnxp485/background?v=c8fa879"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=2685ok6p"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/v7emq0r4"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/2685ok6p/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/2685ok6p/category/z27ngzk0"
+      }
+    ]
+  },
+  {
+    "id": "yd4ljx1e",
+    "names": {
+      "international": "A Hat in Time",
+      "japanese": null,
+      "twitch": "A Hat in Time"
+    },
+    "boostReceived": 8,
+    "boostDistinctDonors": 4,
+    "abbreviation": "ahit",
+    "weblink": "https://www.speedrun.com/ahit",
+    "discord": "https://discord.gg/HJEgHBw",
+    "released": 2017,
+    "release-date": "2017-10-05",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime"
+      ],
+      "default-time": "realtime",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "5j511q8v": "moderator",
+      "kj96onj4": "super-moderator",
+      "qxk4pz6j": "super-moderator",
+      "7j4we2dx": "super-moderator",
+      "0jm0gqz8": "super-moderator",
+      "o86e00qx": "super-moderator",
+      "8qz35d78": "moderator",
+      "x7qwev08": "moderator",
+      "xko0lw28": "super-moderator"
+    },
+    "created": "2017-09-16T01:46:32Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/logo?v=12bbaf7"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/yd4ljx1e/cover?v=897603c"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/yd4ljx1e/cover?v=897603c"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/yd4ljx1e/cover?v=897603c"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/yd4ljx1e/cover?v=897603c"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/favicon?v=b093467"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/1st?v=c479e90"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/2nd?v=aa15f9f"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/3rd?v=f214442"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/p0w1od8n/background?v=e284e96"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=yd4ljx1e"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/6431e17w"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/yd4ljx1e/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/yd4ljx1e/category/xk9g0zvd"
+      }
+    ]
+  },
+  {
+    "id": "w6jmm26j",
+    "names": {
+      "international": "Cuphead",
+      "japanese": null,
+      "twitch": "Cuphead"
+    },
+    "boostReceived": 25,
+    "boostDistinctDonors": 8,
+    "abbreviation": "cuphead",
+    "weblink": "https://www.speedrun.com/cuphead",
+    "discord": "https://discord.gg/2BcMwEd",
+    "released": 2017,
+    "release-date": "2017-09-29",
+    "ruleset": {
+      "show-milliseconds": true,
+      "require-verification": true,
+      "require-video": true,
+      "run-times": [
+        "realtime"
+      ],
+      "default-time": "realtime",
+      "emulators-allowed": false
+    },
+    "romhack": false,
+    "gametypes": [],
+    "platforms": [
+      "nzelkr6q",
+      "o7e2mx6w",
+      "8gej2n93",
+      "mx6ppw63",
+      "7m6ylw9p",
+      "4p9zjrer",
+      "nzelyv9q",
+      "o7e2xj9w",
+      "w89rqoel"
+    ],
+    "regions": [],
+    "genres": [],
+    "engines": [],
+    "developers": [],
+    "publishers": [],
+    "moderators": {
+      "y8d4mdl8": "super-moderator",
+      "zx7zpor8": "moderator",
+      "qjnolmqx": "super-moderator",
+      "8qz1ked8": "moderator",
+      "xz7v079j": "super-moderator",
+      "jopy7m7x": "moderator",
+      "j269yplx": "super-moderator",
+      "8vodp95x": "super-moderator",
+      "xz15r39j": "super-moderator",
+      "xk374298": "super-moderator",
+      "8d01rqmx": "super-moderator",
+      "86r6yq58": "super-moderator",
+      "8vr6ndex": "super-moderator",
+      "xzykmz4j": "super-moderator",
+      "j0e24098": "super-moderator",
+      "xz597orx": "super-moderator",
+      "xz575vex": "super-moderator"
+    },
+    "created": "2017-09-30T04:05:51Z",
+    "assets": {
+      "logo": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/logo?v=1bf8702"
+      },
+      "cover-tiny": {
+        "uri": "https://www.speedrun.com/static/game/w6jmm26j/cover?v=45862cd"
+      },
+      "cover-small": {
+        "uri": "https://www.speedrun.com/static/game/w6jmm26j/cover?v=45862cd"
+      },
+      "cover-medium": {
+        "uri": "https://www.speedrun.com/static/game/w6jmm26j/cover?v=45862cd"
+      },
+      "cover-large": {
+        "uri": "https://www.speedrun.com/static/game/w6jmm26j/cover?v=45862cd"
+      },
+      "icon": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/favicon?v=af76f7d"
+      },
+      "trophy-1st": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/1st?v=99e3c01"
+      },
+      "trophy-2nd": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/2nd?v=a4e2378"
+      },
+      "trophy-3rd": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/3rd?v=1cf2568"
+      },
+      "trophy-4th": {
+        "uri": null
+      },
+      "background": {
+        "uri": "https://www.speedrun.com/static/theme/jre1dqwn/background?v=5a56ea3"
+      },
+      "foreground": {
+        "uri": null
+      }
+    },
+    "links": [
+      {
+        "rel": "self",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j"
+      },
+      {
+        "rel": "runs",
+        "uri": "https://www.speedrun.com/api/v1/runs?game=w6jmm26j"
+      },
+      {
+        "rel": "levels",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/levels"
+      },
+      {
+        "rel": "categories",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/categories"
+      },
+      {
+        "rel": "variables",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/variables"
+      },
+      {
+        "rel": "records",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/records"
+      },
+      {
+        "rel": "series",
+        "uri": "https://www.speedrun.com/api/v1/series/049rrop4"
+      },
+      {
+        "rel": "derived-games",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/derived-games"
+      },
+      {
+        "rel": "romhacks",
+        "uri": "https://www.speedrun.com/api/v1/games/w6jmm26j/derived-games"
+      },
+      {
+        "rel": "leaderboard",
+        "uri": "https://www.speedrun.com/api/v1/leaderboards/w6jmm26j/category/8246xjgd"
+      }
+    ]
+  }
+]
