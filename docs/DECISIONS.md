@@ -61,6 +61,30 @@ Written as I go so it stays honest — this is also my prep material for intervi
   `raw.categories` populated with multiple categories per game, correctly 
   linked via `game_id` parsed out of each category's `links` array.
 
+## Day 4 — Runs Extraction & Pagination
+
+- Built `fetch_runs.py` using the `/runs` endpoint (not `/leaderboards`), 
+  filtered by game + category + status=verified, to capture full run 
+  history rather than just current leaderboard standings — needed for the 
+  Week 2 world-record-progression mart.
+- Implemented pagination with a 200-result page size and a stop condition 
+  when a page returns fewer than 200 results. Added exponential backoff 
+  retry (2s, 4s, 8s...) on HTTP 420/429 rate-limit responses.
+- Celeste's "Any%" category hit the known 10,000-offset pagination ceiling 
+  (see Day 2 notes) — capped at 10,000 runs for that one category. Accepted 
+  as a known limitation rather than building a workaround, since the goal 
+  is a representative dataset, not a complete archive.
+- Real mistake caught: ran `load_runs.py` immediately after starting 
+  `fetch_runs.py` in a second terminal command, before extraction had 
+  actually finished — `runs.json` didn't exist yet, so the load ran against 
+  nothing and `raw.runs` came back empty. Lesson: long-running scripts need 
+  to fully complete before their output is trusted; this is essentially why 
+  Airflow enforces task dependencies instead of relying on manual timing 
+  between commands (a good preview of Week 3).
+- Final result: all 10 games loaded into `raw.runs`, [X] total verified runs 
+  across the dataset. [Y] runs skipped due to missing run_time.
+````//  grand total to log - 69628
+
 ---
 
 ## Open questions / things to revisit
