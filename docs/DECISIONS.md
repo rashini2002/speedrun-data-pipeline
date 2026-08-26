@@ -189,3 +189,20 @@ is a documented, deliberate scoping trade-off, not a data quality defect.
   in dependency order instead.
 - Final row count: [X] (down slightly from the earlier ~2,113, since ~233 
   runs with no resolvable timestamp are now correctly excluded).
+
+  Final mart_wr_progression row count: 2,063 (out of 69,395 timestamped runs — 
+~3% of runs represent an actual record-breaking moment, which matches 
+intuition: most attempts don't beat the existing record).
+
+## Day 10 — Runner Geography Mart
+
+- Built mart_runner_geography joining stg_runs to stg_players via LEFT JOIN 
+  (since only the top 1,500 players were resolved in Day 5), with 
+  COALESCE(country_code, 'unknown') to capture unresolved players explicitly 
+  rather than dropping them.
+- 'unknown' is the single largest bucket (14,714 of ~total runners globally, 
+  2,457 for Celeste specifically) — expected, given only ~10% of the 15,728 
+  distinct players were enriched. This is a transparent consequence of the 
+  Day 5 scoping decision, not a data quality defect.
+- Top resolved countries globally: US, Canada, France, Germany, Australia, 
+  UK — a plausible distribution for these games' speedrunning communities.
