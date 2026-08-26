@@ -112,6 +112,17 @@ python data_quality_check.py
 summary line) before running the matching `load_*.py` script — running them 
 too close together will load an incomplete or empty file.
 
+## Open questions / things to revisit
+
+- Spelunky vs Spelunky 2 vs Spelunky Classic — currently using base Spelunky 
+  (`2685ok6p`); may reconsider since Spelunky 2 likely has more active 
+  record-progression history.
+- Ori and the Blind Forest (base) vs Definitive Edition — currently using base 
+  edition (`9dor8odp`); Definitive Edition may be the more commonly-run version 
+  today and could split leaderboards differently.
+- Need to confirm how to resolve player country data (`/users/{id}`) at scale 
+  without blowing through the rate limit — likely a Day 5 problem.
+
 
 ## Day 5 — Data Quality Results
 
@@ -163,13 +174,18 @@ is a documented, deliberate scoping trade-off, not a data quality defect.
 - Spot-checked [game name] against the live speedrun.com leaderboard — 
   progression and current record matched.
 
-## Open questions / things to revisit
+## Day 9 — Bug Fixed: Timestamp Precision (Resolved)
 
-- Spelunky vs Spelunky 2 vs Spelunky Classic — currently using base Spelunky 
-  (`2685ok6p`); may reconsider since Spelunky 2 likely has more active 
-  record-progression history.
-- Ori and the Blind Forest (base) vs Definitive Edition — currently using base 
-  edition (`9dor8odp`); Definitive Edition may be the more commonly-run version 
-  today and could split leaderboards differently.
-- Need to confirm how to resolve player country data (`/users/{id}`) at scale 
-  without blowing through the rate limit — likely a Day 5 problem.
+- Rebuilt stg_runs and mart_wr_progression using submitted_at (full 
+  timestamp, backfilled from raw_json) instead of date_submitted (day-only 
+  precision).
+- Verified fix: Celeste's "Any%" category now shows a strictly decreasing 
+  progression (4092.41 -> 3584 -> 3459 -> 3307 -> 3288.123 -> 2993...), 
+  confirming the window function correctly identifies genuine record-breaking 
+  runs in true chronological order.
+- Note on Postgres: CREATE OR REPLACE VIEW cannot insert a column in the 
+  middle of an existing view's column list (only append at the end) — had to 
+  DROP VIEW ... CASCADE and recreate both stg_runs and mart_wr_progression 
+  in dependency order instead.
+- Final row count: [X] (down slightly from the earlier ~2,113, since ~233 
+  runs with no resolvable timestamp are now correctly excluded).
