@@ -105,9 +105,7 @@ python data_quality_check.py
 ## Repo Structure
 /extract - Python scripts to pull data from the speedrun.com API
 
-/sql        - Raw table schemas, staging views, and mart definitions (run in
-
-              numeric order: 00 through 07)
+/sql        - Raw table schemas, staging views, and mart definitions (run in numeric order: 00 through 07)
 /dags - Airflow DAG definitions
 
 /dashboard - Streamlit app
