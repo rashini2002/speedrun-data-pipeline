@@ -85,6 +85,52 @@ Written as I go so it stays honest — this is also my prep material for intervi
   across the dataset. [Y] runs skipped due to missing run_time.
 ````//  grand total to log - 69628
 
+## How to Run Extraction
+
+Run these in order — each step depends on the previous one's output:
+
+```bash
+cd extract
+
+# 1. Games & categories
+python fetch_games.py
+python load_games.py
+
+# 2. Runs (takes a while — has pagination + rate-limit handling)
+python fetch_runs.py
+python load_runs.py
+
+# 3. Players (also slow — one API call per distinct player)
+python fetch_players.py
+python load_players.py
+
+# 4. Sanity-check everything
+python data_quality_check.py
+```
+
+**Important:** each `fetch_*.py` script must fully finish (look for its final 
+summary line) before running the matching `load_*.py` script — running them 
+too close together will load an incomplete or empty file.
+
+
+## Day 5 — Data Quality Results
+
+Final Week 1 raw data quality report:
+- 10 games, 122 categories, 69,628 runs, 1,497 players loaded
+- 0.47% of runs missing player_id (guest/anonymous runs) — acceptable
+- 49.71% of runs have no resolved player country — expected, direct 
+  consequence of capping player enrichment to the top 1,500 of 15,728 
+  distinct players (see earlier scoping decision). Geography mart in Week 2 
+  will bucket these as "Unknown" rather than dropping them.
+- 0 duplicate run IDs — confirms upsert/primary-key logic is working correctly
+- 0.16% of runs missing date_submitted — expected, matches known API behavior 
+  for older runs
+- 0 categories with zero runs — no extraction gaps across the target game list
+
+Conclusion: raw data is clean and trustworthy enough to build Week 2 
+transformations on top of. The one significant gap (player country coverage) 
+is a documented, deliberate scoping trade-off, not a data quality defect.
+
 ---
 
 ## Open questions / things to revisit
