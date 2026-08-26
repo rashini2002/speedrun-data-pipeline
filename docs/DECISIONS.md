@@ -219,3 +219,14 @@ intuition: most attempts don't beat the existing record).
 - Both marts build directly on Day 9's mart_wr_progression / stg_runs, 
   reinforcing that the WR progression logic is the foundation the rest of 
   the analysis layer depends on.
+
+  ## Day 12 — Data Quality Tests & Cleanup
+
+- Added sql/05_mart_quality_checks.sql as a lightweight substitute for dbt 
+  tests: assertions on monotonicity (WR progression never increases), 
+  referential integrity, and sane bounds (0-100% improvement).
+- Consolidated all mart definitions into numbered SQL files in the repo 
+  (previously some existed only in pgAdmin's session, not version-controlled).
+- Re-ran check #1 specifically against the Day 9 timestamp bug fix — 
+  confirmed 0 violations, meaning the progression logic is now correct 
+  end-to-end.
