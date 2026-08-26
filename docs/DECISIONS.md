@@ -131,6 +131,7 @@ Conclusion: raw data is clean and trustworthy enough to build Week 2
 transformations on top of. The one significant gap (player country coverage) 
 is a documented, deliberate scoping trade-off, not a data quality defect.
 
+
 ## Day 8 — Staging Layer Results
 
 - stg_games: 10 rows (matches raw)
@@ -144,6 +145,23 @@ is a documented, deliberate scoping trade-off, not a data quality defect.
   verified and ready for mart-building.
 
 ---
+
+## Day 9 — World Record Progression Mart
+
+- Built mart_wr_progression using a window function: MIN(run_time_seconds) 
+  OVER (PARTITION BY category_id ORDER BY date_submitted, run_id) to compute 
+  a running minimum (i.e. the record at any point in time) per category.
+- Excluded runs with NULL date_submitted (0.16% of runs, per Day 5's data 
+  quality report) since they can't be placed on a timeline — a mart-level 
+  filter, not a data loss; raw/staging data is untouched.
+- Used run_id as a tiebreaker in ORDER BY alongside date_submitted, since 
+  multiple runs can share a submission date and window function row 
+  ordering for ties is otherwise undefined.
+- Final mart keeps only rows where a run's own time equals the running 
+  minimum at that point — i.e. only genuine record-breaking (or tying) runs, 
+  not every attempt.
+- Spot-checked [game name] against the live speedrun.com leaderboard — 
+  progression and current record matched.
 
 ## Open questions / things to revisit
 
