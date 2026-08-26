@@ -206,3 +206,16 @@ intuition: most attempts don't beat the existing record).
   Day 5 scoping decision, not a data quality defect.
 - Top resolved countries globally: US, Canada, France, Germany, Australia, 
   UK — a plausible distribution for these games' speedrunning communities.
+
+  ## Day 11 — Community Activity & Most Improved Marts
+
+- mart_community_activity buckets runs by calendar month using 
+  DATE_TRUNC('month', submitted_at) — a reusable pattern for any 
+  time-series aggregation.
+- mart_most_improved uses FIRST_VALUE() windowed both ascending and 
+  descending by submitted_at to capture each category's first-ever and 
+  current record time, then computes % improvement. Used NULLIF to guard 
+  against division by zero.
+- Both marts build directly on Day 9's mart_wr_progression / stg_runs, 
+  reinforcing that the WR progression logic is the foundation the rest of 
+  the analysis layer depends on.
