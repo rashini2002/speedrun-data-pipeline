@@ -131,6 +131,18 @@ Conclusion: raw data is clean and trustworthy enough to build Week 2
 transformations on top of. The one significant gap (player country coverage) 
 is a documented, deliberate scoping trade-off, not a data quality defect.
 
+## Day 8 — Staging Layer Results
+
+- stg_games: 10 rows (matches raw)
+- stg_categories: 102 rows (down from 122 in raw — 20 per-level categories 
+  correctly filtered out)
+- stg_players: 1,497 rows (matches raw)
+- stg_runs: 69,628 rows (matches raw exactly — confirms no runs referenced 
+  a filtered-out per-level category, i.e. clean referential integrity 
+  between runs and categories)
+- Zero duplicate run_ids, zero nulls in required fields — staging layer 
+  verified and ready for mart-building.
+
 ---
 
 ## Open questions / things to revisit
