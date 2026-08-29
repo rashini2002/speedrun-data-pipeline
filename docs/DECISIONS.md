@@ -293,3 +293,11 @@ intuition: most attempts don't beat the existing record).
 - Once logs were readable, confirmed load_games genuinely succeeded end to 
   end through Airflow (10 games, 122 categories loaded) — matching Day 3's 
   manual run exactly.
+
+## Day 16 — Final Verification
+
+Post-Airflow-run row counts: games (10), categories (122), runs (69,718), 
+players (1,499) — consistent with Week 1's manual run numbers (small 
+increases in runs/players reflect real new activity on speedrun.com between 
+runs, not a data issue). Full extraction pipeline confirmed working 
+end-to-end through Airflow.
