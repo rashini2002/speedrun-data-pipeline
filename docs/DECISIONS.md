@@ -241,3 +241,20 @@ intuition: most attempts don't beat the existing record).
 - Final mart row counts: mart_wr_progression (2,063), 
   mart_runner_geography (330), mart_community_activity (1,006), 
   mart_most_improved (102).
+
+
+## Day 15 — Airflow Setup (Resolved)
+
+- Airflow (webserver, scheduler, dedicated metadata Postgres) added to 
+  docker-compose.yml successfully.
+- Hit two setup snags: (1) a YAML indentation error placed Airflow services 
+  under the wrong top-level key initially; (2) a stale container name 
+  conflict from a failed first attempt required manual `docker rm -f` 
+  cleanup.
+- Verified with hello_world_test DAG: confirmed via `airflow dags list` CLI 
+  that the DAG was correctly parsed and mounted, even though the UI 
+  initially showed "No results" — a webserver restart (docker restart 
+  airflow_webserver) resolved a UI/state sync issue. CLI verification was 
+  useful here as a way to isolate "is the DAG actually broken" from "is the 
+  UI just stale."
+- Confirmed successful manual trigger and run.
