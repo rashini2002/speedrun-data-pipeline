@@ -4,6 +4,7 @@ sys.path.insert(0, "/opt/airflow/extract")
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from airflow.providers.postgres.operators.postgres import PostgresOperator
 
 
 def run_fetch_games():
@@ -50,7 +51,8 @@ with DAG(
     start_date=datetime(2026, 1, 1),
     schedule=None,
     catchup=False,
-    tags=["speedrun", "extraction"],
+    tags=["speedrun", "extraction", "transformation"],
+    template_searchpath=["/opt/airflow/sql"],
 ) as dag:
 
     extract_games = PythonOperator(
@@ -73,11 +75,42 @@ with DAG(
     extract_players = PythonOperator(
         task_id="extract_players",
         python_callable=run_fetch_players,
-        execution_timeout=timedelta(minutes=90),  # generous buffer for network variability
+        execution_timeout=timedelta(minutes=90),
     )
     load_players = PythonOperator(
         task_id="load_players",
         python_callable=run_load_players,
     )
 
+    run_staging = PostgresOperator(
+        task_id="run_staging",
+        postgres_conn_id="speedrun_postgres",
+        sql="03_staging_models.sql",
+    )
+
+    run_mart_wr_progression = PostgresOperator(
+        task_id="run_mart_wr_progression",
+        postgres_conn_id="speedrun_postgres",
+        sql="04_mart_wr_progression.sql",
+    )
+
+    run_mart_runner_geography = PostgresOperator(
+        task_id="run_mart_runner_geography",
+        postgres_conn_id="speedrun_postgres",
+        sql="06_mart_runner_geography.sql",
+    )
+
+    run_mart_community_and_improvement = PostgresOperator(
+        task_id="run_mart_community_and_improvement",
+        postgres_conn_id="speedrun_postgres",
+        sql="07_mart_community_and_improvement.sql",
+    )
+    
+    # Extraction chain
     extract_games >> load_games >> extract_runs >> load_runs >> extract_players >> load_players
+
+    # Transformation chain
+    load_players >> run_staging
+    run_staging >> run_mart_wr_progression >> run_mart_community_and_improvement
+    run_staging >> run_mart_runner_geography
+

@@ -9,17 +9,17 @@ WITH runs_with_running_min AS (
         c.category_name,
         r.run_id,
         r.player_id,
-        r.date_submitted,
+        r.submitted_at,
         r.run_time_seconds,
         MIN(r.run_time_seconds) OVER (
             PARTITION BY r.category_id
-            ORDER BY r.date_submitted, r.run_id
+            ORDER BY r.submitted_at, r.run_id
             ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
         ) AS running_record_time
     FROM staging.stg_runs r
     JOIN staging.stg_games g ON r.game_id = g.game_id
     JOIN staging.stg_categories c ON r.category_id = c.category_id
-    WHERE r.date_submitted IS NOT NULL
+    WHERE r.submitted_at IS NOT NULL
 )
 SELECT
     game_id,
@@ -28,11 +28,9 @@ SELECT
     category_name,
     run_id,
     player_id,
-    date_submitted,
+    submitted_at,
     run_time_seconds,
     running_record_time
 FROM runs_with_running_min
--- keep only the rows where THIS run actually set a new record
--- i.e. where its own time equals the running minimum at that point
 WHERE run_time_seconds = running_record_time
-ORDER BY category_id, date_submitted;
+ORDER BY category_id, submitted_at;

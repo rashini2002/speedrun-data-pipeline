@@ -301,3 +301,70 @@ players (1,499) — consistent with Week 1's manual run numbers (small
 increases in runs/players reflect real new activity on speedrun.com between 
 runs, not a data issue). Full extraction pipeline confirmed working 
 end-to-end through Airflow.
+
+## Day 17 — DAG Part 2: Transformation Tasks
+
+- Added PostgresOperator tasks for staging and all four marts, chained 
+  after load_players with correct dependency ordering: mart_most_improved 
+  depends on mart_wr_progression (reads from it), while mart_runner_geography 
+  only depends on staging and can run independently.
+
+- Hit four distinct bugs before this worked end-to-end:
+
+  1. **Missing dependency lines.** The transformation chain comment 
+     (`# Transformation chain`) was left in the DAG file with no actual 
+     `>>` operators underneath it. This meant run_staging and all four mart 
+     tasks had no upstream dependency at all — they started immediately on 
+     trigger, running in parallel with the extraction chain against 
+     stale/incomplete data, and all failed.
+
+  2. **Jinja template path resolution.** PostgresOperator's `sql` parameter 
+     treats any string ending in `.sql` as a Jinja template reference, not 
+     a literal filesystem path. Passing an absolute path 
+     (`/opt/airflow/sql/file.sql`) raised `jinja2.exceptions.TemplateNotFound` 
+     even though the file existed at that exact path. Fixed by adding 
+     `template_searchpath=["/opt/airflow/sql"]` to the DAG definition and 
+     switching all four PostgresOperator tasks to relative filenames 
+     (e.g. `"03_staging_models.sql"`).
+
+  3. **Missing Airflow Connection.** The `speedrun_postgres` connection 
+     (originally set up on Day 15 via the UI) no longer existed — likely 
+     lost during an earlier `docker-compose down`/`up` cycle, since 
+     Connections are stored in Airflow's metadata database, and that data 
+     doesn't survive certain container rebuild patterns. Recreated it via 
+     the CLI for speed and reproducibility:
+      airflow connections add speedrun_postgres --conn-type postgres 
+   --conn-host postgres --conn-schema speedrun_db 
+   --conn-login speedrun_admin --conn-password speedrun_pass 
+   --conn-port 5432
+
+        Lesson: CLI-based connection setup is more reproducible than UI setup 
+     for a project meant to be rebuildable from scratch.
+
+  4. **Truncated SQL file.** `sql/03_staging_models.sql` was missing its 
+     final line (`AND category_id IN (SELECT category_id FROM 
+     staging.stg_categories);`), causing a genuine 
+     `psycopg2.errors.SyntaxError: syntax error at end of input`. The file 
+     had been cut off, likely during an earlier copy/paste or save. Fixed 
+     by restoring the missing clause and verifying with `tail -3` before 
+     rerunning.
+
+- **Debugging approach:** rather than repeatedly triggering the full DAG 
+  (which requires waiting through the ~90-minute extraction chain each 
+  time), used `airflow tasks test <dag_id> <task_id> <date>` to run each 
+  new task in isolation, bypassing dependencies entirely. This gave fast, 
+  direct feedback on each bug without needing to re-run extraction, and 
+  surfaced the real Python/SQL tracebacks directly in the terminal rather 
+  than needing to dig through the Airflow UI's log viewer.
+
+- **Final verification:** queried all four mart tables directly and 
+  confirmed row counts exactly match Week 2's manually-verified numbers:
+  - mart_wr_progression: 2,063
+  - mart_runner_geography: 330
+  - mart_community_activity: 1,006
+  - mart_most_improved: 102
+
+  This confirms the Airflow-orchestrated transformation layer produces 
+  identical, correct output to the original manually-run SQL — the 
+  orchestration wrapper introduced no data discrepancies, only the four 
+  infrastructure/configuration bugs listed above.

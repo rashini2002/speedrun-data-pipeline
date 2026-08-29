@@ -28,7 +28,12 @@ FROM raw.players;
 
 
 -- stg_runs: typed, cleaned runs — the core fact table for everything downstream
-CREATE OR REPLACE VIEW staging.stg_runs AS
+-- Uses submitted_at (full timestamp) rather than date_submitted (day-only
+-- precision) — see Day 9 DECISIONS.md for why this matters.
+DROP VIEW IF EXISTS marts.mart_wr_progression CASCADE;
+DROP VIEW IF EXISTS staging.stg_runs CASCADE;
+
+CREATE VIEW staging.stg_runs AS
 SELECT
     run_id,
     game_id,
@@ -36,9 +41,9 @@ SELECT
     player_id,
     run_time_seconds,
     date_submitted,
-    -- flag runs we can't fully attribute, rather than silently dropping them
+    submitted_at,
     (player_id IS NULL) AS is_missing_player,
-    (date_submitted IS NULL) AS is_missing_date
+    (submitted_at IS NULL) AS is_missing_timestamp
 FROM raw.runs
-WHERE run_time_seconds IS NOT NULL   -- already filtered in load_runs.py, but explicit here
-  AND category_id IN (SELECT category_id FROM staging.stg_categories);  -- drop per-level leftovers, if any
+WHERE run_time_seconds IS NOT NULL
+  AND category_id IN (SELECT category_id FROM staging.stg_categories);
