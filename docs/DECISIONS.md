@@ -258,3 +258,38 @@ intuition: most attempts don't beat the existing record).
   useful here as a way to isolate "is the DAG actually broken" from "is the 
   UI just stale."
 - Confirmed successful manual trigger and run.
+
+## Day 16 — DAG Part 1: Extraction Tasks
+
+- Wrapped existing fetch_*.py/load_*.py scripts as PythonOperator tasks 
+  rather than rewriting them, to avoid duplicating logic already built and 
+  tested in Days 3-5.
+- Imports happen inside each task function (not at DAG file top-level) to 
+  avoid triggering side effects (DB connections, .env loading) every time 
+  Airflow's scheduler parses the DAG file.
+- Had to mount .env into the Airflow containers and change DB_HOST from 
+  localhost to postgres (the Docker service name), since "localhost" means 
+  something different inside each container.
+- Dependency chain: extract_games -> load_games -> extract_runs -> 
+  load_runs -> extract_players -> load_players, enforcing the same 
+  ordering that was previously done manually and error-pronely (see Day 4's 
+  race-condition incident).
+
+  ## Day 16 — DAG Extraction Tasks: Debugging the Secret Key Issue
+
+- Wrapped fetch_*.py/load_*.py scripts as PythonOperator tasks with a linear 
+  dependency chain (extract_games -> load_games -> extract_runs -> load_runs 
+  -> extract_players -> load_players).
+- Hit a "Could not read served logs: 403 Forbidden" error when checking task 
+  logs — root cause: Airflow's webserver and scheduler containers each had 
+  a different auto-generated secret_key, so the webserver couldn't 
+  authenticate to fetch logs from the scheduler's log server. Fixed by 
+  setting an explicit, identical AIRFLOW__WEBSERVER__SECRET_KEY across all 
+  three Airflow services (webserver, scheduler, init) and doing a full 
+  docker-compose down/up (not just up) so the new env var actually applied.
+- Also removed a redundant/risky single-file .env mount (already caused an 
+  OCI runtime error days earlier) since .env was already being read via the 
+  existing extract/ folder mount.
+- Once logs were readable, confirmed load_games genuinely succeeded end to 
+  end through Airflow (10 games, 122 categories loaded) — matching Day 3's 
+  manual run exactly.

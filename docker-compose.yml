@@ -1,4 +1,3 @@
-
 services:
   postgres:
     image: postgres:16
@@ -44,6 +43,7 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db/airflow
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW__WEBSERVER__SECRET_KEY: 'a_fixed_dev_secret_key_12345'
     entrypoint: /bin/bash
     command:
       - -c
@@ -66,6 +66,7 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db/airflow
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW__WEBSERVER__SECRET_KEY: 'a_fixed_dev_secret_key_12345'
     volumes:
       - ./dags:/opt/airflow/dags
       - ./extract:/opt/airflow/extract
@@ -85,6 +86,7 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db/airflow
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW__WEBSERVER__SECRET_KEY: 'a_fixed_dev_secret_key_12345'
     volumes:
       - ./dags:/opt/airflow/dags
       - ./extract:/opt/airflow/extract
