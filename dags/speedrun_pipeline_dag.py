@@ -18,7 +18,6 @@ def run_load_games():
     load_games.load_categories()
     load_games.conn.commit()
 
-
 def run_fetch_runs():
     import fetch_runs
     fetch_runs.main()
@@ -41,15 +40,25 @@ def run_load_players():
     load_players.conn.commit()
 
 
+def task_failure_alert(context):
+    task_id = context["task_instance"].task_id
+    dag_id = context["task_instance"].dag_id
+    exec_date = context["execution_date"]
+    print(f"ALERT: Task '{task_id}' in DAG '{dag_id}' failed at {exec_date}")
+
+
 default_args = {
     "owner": "rashini",
+    "retries": 2,
+    "retry_delay": timedelta(minutes=5),
+    "on_failure_callback": task_failure_alert,
 }
 
 with DAG(
     dag_id="speedrun_pipeline",
     default_args=default_args,
     start_date=datetime(2026, 1, 1),
-    schedule=None,
+    schedule="@daily",
     catchup=False,
     tags=["speedrun", "extraction", "transformation"],
     template_searchpath=["/opt/airflow/sql"],
@@ -105,7 +114,7 @@ with DAG(
         postgres_conn_id="speedrun_postgres",
         sql="07_mart_community_and_improvement.sql",
     )
-    
+
     # Extraction chain
     extract_games >> load_games >> extract_runs >> load_runs >> extract_players >> load_players
 
@@ -113,4 +122,3 @@ with DAG(
     load_players >> run_staging
     run_staging >> run_mart_wr_progression >> run_mart_community_and_improvement
     run_staging >> run_mart_runner_geography
-
