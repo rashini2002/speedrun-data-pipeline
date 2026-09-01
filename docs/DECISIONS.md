@@ -369,7 +369,7 @@ end-to-end through Airflow.
   orchestration wrapper introduced no data discrepancies, only the four 
   infrastructure/configuration bugs listed above.
 
-  ## Day 19 — Idempotency Verification
+## Day 19 — Idempotency Verification
 
 - Rather than triggering another full ~90 minute DAG run purely to 
   re-demonstrate idempotency, verified it using evidence already available: 
@@ -387,3 +387,20 @@ end-to-end through Airflow.
 - Conclusion: idempotency was effectively built and continuously validated 
   from Day 3 onward, proven definitively today with a direct primary-key 
   check rather than just count comparisons.
+
+## Day 20 — Clean Rebuild Test: Complete Success
+
+- After fixing the two schema gaps (staging schema creation, submitted_at 
+  column), ran a full docker-compose down -v + up, recreated the Airflow 
+  connection, and triggered the DAG fresh against a completely empty 
+  database.
+- extract_runs hit the 90-minute timeout on the first attempt (network 
+  variability, consistent with earlier days) — cleared and retried, 
+  completed successfully on the second run.
+- Final verification: all raw tables and all four marts rebuilt correctly 
+  from nothing, with row counts consistent with previous runs.
+- This confirms the project is genuinely reproducible end-to-end from the 
+  GitHub repo alone — not dependent on any leftover manual state. The two 
+  gaps found today (staging schema, submitted_at column) would have been 
+  invisible without this full clean-slate test, reinforcing that 
+  incremental testing alone cannot catch this class of issue.

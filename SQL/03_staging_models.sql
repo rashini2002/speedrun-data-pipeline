@@ -1,4 +1,7 @@
 -- stg_games: clean, typed game reference data
+CREATE SCHEMA IF NOT EXISTS staging;
+
+-- stg_games: clean, typed game reference data
 CREATE OR REPLACE VIEW staging.stg_games AS
 SELECT
     game_id,

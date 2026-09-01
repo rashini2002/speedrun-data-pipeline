@@ -1,3 +1,9 @@
+ALTER TABLE raw.runs ADD COLUMN IF NOT EXISTS submitted_at TIMESTAMP;
+
+UPDATE raw.runs
+SET submitted_at = (raw_json->>'submitted')::timestamp
+WHERE raw_json->>'submitted' IS NOT NULL;
+
 CREATE TABLE IF NOT EXISTS raw.runs (
     run_id             TEXT PRIMARY KEY,
     game_id            TEXT REFERENCES raw.games(game_id),
