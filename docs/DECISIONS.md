@@ -458,3 +458,22 @@ end-to-end through Airflow.
   the data-scope limitation.
 - Dashboard now covers all four marts built in Week 2, giving a complete 
   visual layer on top of the pipeline.
+
+
+## Day 24 — Dashboard Polish (Complete)
+
+- Redesigned the dashboard with a custom dark theme (Electric Violet / 
+  Matrix Teal / Obsidian Blue palette) using CSS injection + a 
+  .streamlit/config.toml theme override, styled as a card-based grid 
+  layout inspired by analytics dashboard references.
+- Fixed two real bugs during polish: (1) Plotly's Layout object isn't 
+  dict-unpackable via **, needed a style_fig() helper function instead; 
+  (2) a fixed header height in custom CSS was clipping the title's letter 
+  tops — fixed by removing the height override and adding top padding to 
+  the block container instead.
+- Migrated from deprecated use_container_width=True to width='stretch' 
+  ahead of Streamlit's 2025-12-31 removal deadline.
+- Final result: KPI row, WR progression chart, runner geography map, 
+  community activity chart, and most-improved table all rendering 
+  consistently within roughly one scroll, with the palette applied 
+  uniformly across every component.
