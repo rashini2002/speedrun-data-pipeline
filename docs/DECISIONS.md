@@ -446,3 +446,15 @@ end-to-end through Airflow.
 - Excluded 'unknown' country rows from the map itself but surfaced the 
   percentage as a caption, rather than hiding the data-scope limitation 
   from viewers.
+
+## Day 23 — World Map & Remaining Charts (Complete)
+
+- Added runner geography choropleth map (fixed via pycountry ISO-2 → ISO-3 
+  conversion), community activity bar chart, and global most-improved 
+  table.
+- Verified working end-to-end: map correctly shows US/Canada/Australia 
+  colored by runner density for A Hat in Time; caption transparently 
+  states 83.8% of runners have no resolved country, rather than hiding 
+  the data-scope limitation.
+- Dashboard now covers all four marts built in Week 2, giving a complete 
+  visual layer on top of the pipeline.
