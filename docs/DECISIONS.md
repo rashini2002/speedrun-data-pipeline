@@ -434,4 +434,15 @@ end-to-end through Airflow.
   renders a correct WR progression curve (A Hat in Time Any%, 2018-2024) 
   matching the expected shape — large early improvements flattening into 
   small incremental gains over time.
-  
+
+## Day 23 — World Map & Remaining Charts
+
+- Added runner geography choropleth map, community activity bar chart, 
+  and a global "most improved categories" table to the dashboard.
+- Real gotcha: speedrun.com returns 2-letter (ISO-2) country codes, but 
+  Plotly's choropleth locationmode="ISO-3" expects 3-letter codes — a 
+  mismatch that would silently render an empty map with no error. Fixed 
+  using pycountry to convert alpha-2 to alpha-3 codes before plotting.
+- Excluded 'unknown' country rows from the map itself but surfaced the 
+  percentage as a caption, rather than hiding the data-scope limitation 
+  from viewers.
