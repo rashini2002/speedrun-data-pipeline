@@ -5,7 +5,7 @@ and visualizes world record data from [speedrun.com](https://speedrun.com)
 across 10 popular games — built with Python, PostgreSQL, Apache Airflow, and 
 Streamlit.
 
-**[Live dashboard preview →](docs/screenshots/Full dashboard view.png)**
+![Speedrun Dashboard Preview](docs/screenshots/dashboard_preview.png)
 
 ## Why This Project
 
