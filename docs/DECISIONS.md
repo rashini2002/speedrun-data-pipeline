@@ -404,3 +404,18 @@ end-to-end through Airflow.
   gaps found today (staging schema, submitted_at column) would have been 
   invisible without this full clean-slate test, reinforcing that 
   incremental testing alone cannot catch this class of issue.
+
+## Day 20 — Third Gap: submitted_at Backfill Timing
+
+- Even after fixing the column definition, mart_wr_progression and 
+  mart_community_activity came back with 0 rows post-rebuild. Root cause: 
+  the submitted_at backfill (UPDATE ... SET submitted_at = ...) was placed 
+  in 01_create_raw_runs.sql, which only runs once at initial schema setup 
+  — before any run data exists. It never re-executes after fresh extraction.
+- Fixed by moving the backfill UPDATE into 03_staging_models.sql (idempotent, 
+  WHERE submitted_at IS NULL guard), so it re-runs every time staging 
+  executes — correctly catching newly-loaded runs each time the DAG runs.
+- Third gap found via the same clean-rebuild test — reinforces that 
+  ordering/timing of one-off manual fixes matters as much as whether 
+  they're captured in files at all.
+

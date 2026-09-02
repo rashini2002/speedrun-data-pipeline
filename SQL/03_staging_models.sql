@@ -29,6 +29,12 @@ SELECT
     COALESCE(country_code, 'unknown') AS country_code
 FROM raw.players;
 
+-- Backfill submitted_at for any new runs since this was last run
+UPDATE raw.runs
+SET submitted_at = (raw_json->>'submitted')::timestamp
+WHERE submitted_at IS NULL
+  AND raw_json->>'submitted' IS NOT NULL;
+  
 
 -- stg_runs: typed, cleaned runs — the core fact table for everything downstream
 -- Uses submitted_at (full timestamp) rather than date_submitted (day-only
