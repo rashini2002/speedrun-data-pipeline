@@ -1,130 +1,101 @@
-# Speedrun World Record Data Pipeline
+# 🏃 Speedrun World Record Data Pipeline
 
-A data engineering pipeline that extracts world record and player data from the 
-[speedrun.com API](https://github.com/speedruncomorg/api), transforms it into 
-analysis-ready tables, and visualizes world record progression and runner geography 
-on an interactive dashboard. Built as a hands-on project to practice core data 
-engineering skills: API extraction, orchestration, SQL transformation, and 
-containerized local development.
+An end-to-end data engineering project that extracts, transforms, orchestrates, 
+and visualizes world record data from [speedrun.com](https://speedrun.com) 
+across 10 popular games — built with Python, PostgreSQL, Apache Airflow, and 
+Streamlit.
+
+**[Live dashboard preview →](docs/screenshots/Full dashboard view.png)**
+
+## Why This Project
+
+Most beginner data engineering portfolios pull from the same handful of 
+datasets. This project uses speedrunning world record data instead — a genuinely 
+unusual domain that still requires every core DE skill: API extraction with 
+pagination and rate limits, idempotent loading, SQL transformation, 
+orchestration, and a real dashboard on top.
+
 
 ## Architecture
-speedrun.com API (games -> categories -> runs -> players)
-|
-v
-Python extraction scripts (requests, pagination, retry logic)
-|
-v
-Postgres - raw schema (landing zone)
-|
-v
-SQL / dbt transformations (staging -> marts)
-|
-v
-Apache Airflow (schedules extract -> load -> transform)
-|
-v
-Streamlit dashboard (record progression + runner geography map)
 
+```mermaid
+graph LR
+    A[speedrun.com API] -->|Python extraction| B[Postgres: raw schema]
+    B -->|SQL transforms| C[Postgres: staging schema]
+    C -->|SQL marts| D[Postgres: marts schema]
+    D -->|Streamlit + Plotly| E[Interactive Dashboard]
+    F[Apache Airflow] -.orchestrates.-> A
+    F -.orchestrates.-> B
+    F -.orchestrates.-> C
+    F -.orchestrates.-> D
+```
 
 ## Tech Stack
 
-- **Extraction:** Python (requests)
+- **Extraction:** Python (requests, retry/backoff logic)
 - **Storage:** PostgreSQL
-- **Transformation:** SQL / dbt
-- **Orchestration:** Apache Airflow
-- **Dashboard:** Streamlit
+- **Transformation:** SQL (staging views + analytical marts)
+- **Orchestration:** Apache Airflow (daily schedule, retries, failure alerting)
+- **Dashboard:** Streamlit + Plotly
 - **Environment:** Docker Compose
 
+## Features
 
-## Target Games
-
-10 games spanning multiple genres (platformer, metroidvania, roguelike, FPS, puzzle). 
-Full list with speedrun.com IDs in [`docs/games.md`](docs/games.md).
+- 🏆 World record progression tracking (window-function-based, with a documented 
+  timestamp-precision bug fix)
+- 🌍 Runner geography choropleth map
+- 📊 Community activity trends over time
+- 🚀 Cross-game "most improved" leaderboard
+- 🔍 Global search across all games/categories/players
+- ⏱️ Computed insight metrics (days since last WR, average days between records)
+- 📥 CSV export
 
 ## Data Scope
 
-- **Runs:** all verified runs across 10 games' per-game categories (~65,000+ runs). 
-  One category (Celeste "Any%") hit the speedrun.com API's known 10,000-offset 
-  pagination limit — accepted as a documented data limitation, not a bug.
-- **Players:** enriched the top 1,500 most active players (by run count) out of 
-  15,728 distinct players found in the run history, to keep extraction time 
-  reasonable (~17 min vs. ~3 hrs for full resolution). See 
-  [`docs/DECISIONS.md`](docs/DECISIONS.md) for the full reasoning.
+- 10 games, ~70,000 verified runs, ~1,500 enriched players (of ~15,700 total — 
+  see [DECISIONS.md](docs/DECISIONS.md) for the sampling rationale)
+- One category (Celeste "Any%") hits the speedrun.com API's known 10,000-offset 
+  pagination limit — a documented, accepted data limitation
 
 ## Setup
 
-**Requirements:** Docker Desktop, Python 3.10+
-
 ```bash
-# 1. Start Postgres + pgAdmin
+git clone <your-repo-url>
+cd speedrun-data-pipeline
 docker-compose up -d
 
-# 2. Create raw schema and tables
+# Create schema (first run only)
 docker exec -i speedrun_postgres psql -U speedrun_admin -d speedrun_db < sql/00_create_raw_tables.sql
 docker exec -i speedrun_postgres psql -U speedrun_admin -d speedrun_db < sql/01_create_raw_runs.sql
 docker exec -i speedrun_postgres psql -U speedrun_admin -d speedrun_db < sql/02_create_raw_players.sql
 
-# 3. Set up Python environment
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-# 4. Copy .env.example to .env and fill in DB credentials
-cp .env.example .env
+# Register the Airflow Postgres connection
+docker exec airflow_scheduler airflow connections add speedrun_postgres \
+  --conn-type postgres --conn-host postgres --conn-schema speedrun_db \
+  --conn-login speedrun_admin --conn-password speedrun_pass --conn-port 5432
 ```
 
-Postgres runs on `localhost:5432`, pgAdmin on `localhost:5050`.
-
-## How to Run Extraction
-
-Run these in order from the `extract/` folder — each step depends on the 
-previous one's output. **Important:** each `fetch_*.py` script must fully 
-finish (look for its final summary line, e.g. "Saved X players...") before 
-running the matching `load_*.py` script. Running them too close together, or 
-interrupting a fetch script partway, will load an incomplete or empty file.
+Trigger the `speedrun_pipeline` DAG from the Airflow UI (`localhost:8080`) to 
+run the full extraction → transformation chain, then:
 
 ```bash
-cd extract
-
-# 1. Games & categories (~1 min)
-python fetch_games.py
-python load_games.py
-
-# 2. Runs — has pagination + rate-limit handling (~20-30 min)
-python fetch_runs.py
-python load_runs.py
-
-# 3. Players — one API call per player, capped at top 1,500 (~17-18 min)
-python fetch_players.py
-python load_players.py
-
-# 4. Sanity-check everything
-python data_quality_check.py
+cd dashboard
+python3 -m streamlit run app.py
 ```
 
-## Repo Structure
-/extract - Python scripts to pull data from the speedrun.com API
+## What I Learned
 
-/sql        - Raw table schemas, staging views, and mart definitions (run in numeric order: 00 through 07)
-/dags - Airflow DAG definitions
+- Building resilient API extraction (pagination, rate limits, retries) against 
+  a real, imperfect third-party API
+- Debugging a subtle window-function bug caused by date vs. timestamp precision
+- Orchestrating a multi-stage pipeline in Airflow, including task dependencies, 
+  scheduling, retries, and failure alerting
+- Running a full clean-slate rebuild test that surfaced three real 
+  reproducibility gaps invisible to incremental testing alone
+- Building a genuinely polished, custom-themed dashboard rather than relying 
+  on default styling
 
-/dashboard - Streamlit app
+## Project Log
 
-/docs - Notes, decisions, and game list
-
-
-## Notes & Decisions
-
-Build log and technical decisions tracked in [`docs/DECISIONS.md`](docs/DECISIONS.md), 
-including real debugging moments (API pagination limits, a 404 caused by a 
-per-level vs. per-game category mismatch, and a race condition from running a 
-load script before extraction had finished).
-
-## What This Project Demonstrates
-
-- API extraction with pagination and rate-limit handling (exponential backoff)
-- Idempotent data loading (safe to re-run without duplicating data)
-- Documented data-scoping decisions under real-world constraints (API limits, time)
-- SQL window functions for time-series record tracking (coming in Week 2)
-- Pipeline orchestration with Apache Airflow (coming in Week 3)
-- End-to-end containerized local development
+Full day-by-day build log, decisions, and debugging stories: 
+[docs/DECISIONS.md](docs/DECISIONS.md)
