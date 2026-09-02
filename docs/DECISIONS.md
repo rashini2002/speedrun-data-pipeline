@@ -477,3 +477,28 @@ end-to-end through Airflow.
   community activity chart, and most-improved table all rendering 
   consistently within roughly one scroll, with the palette applied 
   uniformly across every component.
+
+## Day 24 (extended) — Advanced Dashboard Redesign
+
+- Rebuilt the dashboard with a custom dark theme (Electric Violet / Matrix 
+  Teal / Obsidian Blue), card-based grid layout, and a tabbed structure 
+  (Game Dashboard / Global Search / Most Improved) instead of one long 
+  scroll.
+- Added unique, non-obvious features beyond the original mart visualizations:
+  - "Days Since Last WR" and "Avg Days Between Records" — computed 
+    velocity metrics per category, not directly present in any mart, 
+    calculated live from mart_wr_progression timestamps.
+  - Global search tab — lets users search across all games/categories/
+    players at once, rather than browsing one game at a time.
+  - CSV export button on the WR progression chart.
+- Replaced the emoji header with a custom pixel-art trophy image, base64-
+  encoded inline since Streamlit/browsers can't resolve local file paths 
+  directly inside markdown HTML.
+- Converted the runner geography map to a horizontal color legend 
+  (matching a reference analytics-dashboard style) and enlarged it to 
+  visually balance against the WR progression card.
+- Debugged several real issues during this session: Plotly Layout objects 
+  aren't dict-unpackable (needed a style_fig() helper), a stray invisible 
+  character caused a silent syntax error, and a missing iso3 conversion 
+  step (lost during editing) caused a ValueError — each traced and fixed 
+  by reading the actual traceback rather than guessing.
