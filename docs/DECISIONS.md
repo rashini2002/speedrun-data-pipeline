@@ -419,3 +419,19 @@ end-to-end through Airflow.
   ordering/timing of one-off manual fixes matters as much as whether 
   they're captured in files at all.
 
+## Day 22 — Dashboard Skeleton (Complete)
+
+- Built dashboard/app.py with Streamlit: game/category selectors and a 
+  line chart of world record progression, querying marts.mart_wr_progression 
+  directly via psycopg2.
+- Hit a Python environment mismatch: `streamlit` resolved to a system-wide 
+  Python 3.12 install instead of the project's venv (Python 3.10), causing 
+  a ModuleNotFoundError for psycopg2 even though it was correctly installed 
+  in the venv. Fixed by launching with `python3 -m streamlit run app.py` 
+  instead of the bare `streamlit` command, which forces use of the active 
+  venv's interpreter.
+- Verified working end-to-end: dropdowns populate from real data, chart 
+  renders a correct WR progression curve (A Hat in Time Any%, 2018-2024) 
+  matching the expected shape — large early improvements flattening into 
+  small incremental gains over time.
+  
