@@ -502,3 +502,16 @@ end-to-end through Airflow.
   character caused a silent syntax error, and a missing iso3 conversion 
   step (lost during editing) caused a ValueError — each traced and fixed 
   by reading the actual traceback rather than guessing.
+
+
+## Day 26 — Demo Recording & Final Clean-Slate Test
+
+- Hit the submitted_at column gap again during today's clean rebuild for 
+  the demo recording (same root cause as Day 20 — the setup step was 
+  missed on manual re-setup). Fixed by re-running 01_create_raw_runs.sql, 
+  then clearing and re-running the affected Airflow tasks.
+- Recorded a screen capture showing the Airflow DAG and dashboard, 
+  converted to GIF via ffmpeg for auto-play embedding in the README.
+- Confirms setup is still fragile to human error on manual multi-step 
+  rebuilds, even though the underlying SQL fixes are correct — a good 
+  argument for a single setup script as a future improvement.

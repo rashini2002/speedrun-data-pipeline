@@ -6,14 +6,7 @@ across 10 popular games — built with Python, PostgreSQL, Apache Airflow, and
 Streamlit.
 
 ![Speedrun Dashboard Preview](docs/screenshots/dashboard_preview.png)
-
-## Why This Project
-
-Most beginner data engineering portfolios pull from the same handful of 
-datasets. This project uses speedrunning world record data instead — a genuinely 
-unusual domain that still requires every core DE skill: API extraction with 
-pagination and rate limits, idempotent loading, SQL transformation, 
-orchestration, and a real dashboard on top.
+![Demo](docs/demo/demo.gif)
 
 
 ## Architecture
